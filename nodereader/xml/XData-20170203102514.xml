@@ -1,0 +1,1686 @@
+<?xml version="1.0" ?><gbDataset eventType="Horse-Racing" timeGenerated="2017-02-03T10:25:14">
+<gbEvent meeting="KEMPTON" name="17:45 HANDICAP 7f" id="11800045" distance="0m 7f" cstime="17:45" date="2017-02-03" time="17:45">
+<gbRunner id="529992969" runner="1" name="Pleadings" jockey="S W Kelly" odds="3/1" />
+<gbRunner id="529992977" runner="9" name="Prince of Time" jockey="Callum Rodriguez" odds="9/2" />
+<gbRunner id="529992982" runner="14" name="Welsh Inlet" jockey="Jane Elliott" odds="7/1" />
+<gbRunner id="529992971" runner="3" name="Cuban Queen" jockey="Adam Beschizza" odds="15/2" />
+<gbRunner id="529992975" runner="7" name="Ertidaad" jockey="D A Parkes" odds="9/1" />
+<gbRunner id="529992980" runner="12" name="Lutine Charlie" jockey="Hollie Doyle" odds="9/1" />
+<gbRunner id="529992970" runner="2" name="Altaira" jockey="William Carson" odds="10/1" />
+<gbRunner id="529992973" runner="5" name="West Leake" jockey="L P Keniry" odds="10/1" />
+<gbRunner id="529992972" runner="4" name="Captain Kendall" jockey="S J Drowne" odds="14/1" />
+<gbRunner id="529992981" runner="13" name="Chandrayaan" jockey="F Norton" odds="14/1" />
+<gbRunner id="529992974" runner="6" name="Dalness Express" jockey="Ciaran McKee" odds="16/1" />
+<gbRunner id="529992976" runner="8" name="Man Of La Mancha" jockey="R Winston" odds="16/1" />
+<gbRunner id="529992978" runner="10" name="Catalyze" jockey="Danny Brock" odds="100/1" />
+<gbRunner id="529992979" runner="11" name="Xclusive" jockey="Non-Runner" odds="NR" />
+</gbEvent>
+<gbEvent meeting="KEMPTON" name="18:15 MAIDEN STAKES 7f" id="11800046" distance="0m 7f" cstime="18:15" date="2017-02-03" time="18:15">
+<gbRunner id="529992995" runner="11" name="Tricorn" jockey="N Mackay" odds="6/5" />
+<gbRunner id="529992989" runner="5" name="Dark Destroyer" jockey="L P Keniry" odds="11/4" />
+<gbRunner id="529992987" runner="3" name="Basheer" jockey="L Morris" odds="4/1" />
+<gbRunner id="529992993" runner="9" name="Swilly Bay" jockey="Michael J M Murphy" odds="15/2" />
+<gbRunner id="529992991" runner="7" name="Rock N Roll Global" jockey="S W Kelly" odds="16/1" />
+<gbRunner id="529992988" runner="4" name="Damo" jockey="Hector Crouch" odds="25/1" />
+<gbRunner id="529992996" runner="12" name="Maarit" jockey="Tom Marquand" odds="25/1" />
+<gbRunner id="529992985" runner="1" name="Major Assault" jockey="J P Fahy" odds="33/1" />
+<gbRunner id="529992997" runner="13" name="Navajo Star" jockey="R P Walsh" odds="40/1" />
+<gbRunner id="529992990" runner="6" name="Golden Harbour" jockey="Mitch Godwin" odds="150/1" />
+<gbRunner id="529992994" runner="10" name="Trautmann" jockey="Josephine Gordon" odds="150/1" />
+<gbRunner id="529992992" runner="8" name="Secret Willow" jockey="F Norton" odds="200/1" />
+<gbRunner id="529992986" runner="2" name="Mr Andros" jockey="Non-Runner" odds="NR" />
+<gbRunner id="529992998" runner="14" name="Snow Squaw" jockey="Non-Runner" odds="NR" />
+</gbEvent>
+<gbEvent meeting="KEMPTON" name="18:45 HANDICAP 6f" id="11800047" distance="0m 6f" cstime="18:45" date="2017-02-03" time="18:45">
+<gbRunner id="529993003" runner="3" name="Popsilca" jockey="William Carson" odds="6/4" />
+<gbRunner id="529993001" runner="1" name="Skellig Michael" jockey="A Kirby" odds="3/1" />
+<gbRunner id="529993005" runner="5" name="Secret Icon" jockey="T J Murphy" odds="4/1" />
+<gbRunner id="529993002" runner="2" name="Arya Stark" jockey="David Probert" odds="11/2" />
+<gbRunner id="529993006" runner="6" name="Raspberry Princess" jockey="Aaron Jones" odds="12/1" />
+<gbRunner id="529993004" runner="4" name="Sallee" jockey="Hollie Doyle" odds="20/1" />
+</gbEvent>
+<gbEvent meeting="KEMPTON" name="19:15 HANDICAP 6f" id="11800048" distance="0m 6f" cstime="19:15" date="2017-02-03" time="19:15">
+<gbRunner id="529993018" runner="10" name="Born To Finish" jockey="D A Parkes" odds="7/2" />
+<gbRunner id="529993011" runner="3" name="Dutch Golden Age" jockey="G Baker" odds="5/1" />
+<gbRunner id="529993014" runner="6" name="September Issue" jockey="L Morris" odds="5/1" />
+<gbRunner id="529993010" runner="2" name="Highland Acclaim" jockey="D Tudhope" odds="15/2" />
+<gbRunner id="529993012" runner="4" name="Under Siege" jockey="Oisin Murphy" odds="8/1" />
+<gbRunner id="529993013" runner="5" name="Darma" jockey="Hollie Doyle" odds="8/1" />
+<gbRunner id="529993017" runner="9" name="Fairway To Heaven" jockey="A Kirby" odds="8/1" />
+<gbRunner id="529993009" runner="1" name="Oriental Relation" jockey="P Mulrennan" odds="10/1" />
+<gbRunner id="529993015" runner="7" name="Salvatore Fury" jockey="Connor Beasley" odds="12/1" />
+<gbRunner id="529993016" runner="8" name="Very Honest" jockey="M Dwyer" odds="16/1" />
+<gbRunner id="529993019" runner="11" name="King Of Swing" jockey="S W Kelly" odds="50/1" />
+<gbRunner id="529993020" runner="12" name="Yeeoow" jockey="Non-Runner" odds="NR" />
+</gbEvent>
+<gbEvent meeting="KEMPTON" name="19:45 HANDICAP 1m" id="11800049" distance="1m 0f" cstime="19:45" date="2017-02-03" time="19:45">
+<gbRunner id="529993026" runner="4" name="Honiara" jockey="Callum Shepherd" odds="9/4" />
+<gbRunner id="529993028" runner="6" name="Blue Revelation" jockey="G Baker" odds="5/1" />
+<gbRunner id="529993030" runner="8" name="Mister Music" jockey="A Kirby" odds="5/1" />
+<gbRunner id="529993024" runner="2" name="Lacan" jockey="S M Levey" odds="11/2" />
+<gbRunner id="529993025" runner="3" name="Amazement" jockey="L Morris" odds="6/1" />
+<gbRunner id="529993027" runner="5" name="Francos Secret" jockey="Tom Marquand" odds="6/1" />
+<gbRunner id="529993023" runner="1" name="Ice Royal" jockey="Lucy K Barry" odds="9/1" />
+<gbRunner id="529993029" runner="7" name="Sands Chorus" jockey="P Mulrennan" odds="10/1" />
+<gbRunner id="529993031" runner="9" name="Freight Train" jockey="Hollie Doyle" odds="66/1" />
+</gbEvent>
+<gbEvent meeting="KEMPTON" name="20:15 HANDICAP 1m 4f" id="11800050" distance="1m 4f" cstime="20:15" date="2017-02-03" time="20:15">
+<gbRunner id="529993042" runner="9" name="Black Hole Sun" jockey="Josephine Gordon" odds="6/4" />
+<gbRunner id="529993035" runner="2" name="Goodby Inheritence" jockey="G Baker" odds="4/1" />
+<gbRunner id="529993034" runner="1" name="The Ginger Berry" jockey="A Kirby" odds="11/2" />
+<gbRunner id="529993037" runner="4" name="Mystikana" jockey="Tyler Saunders" odds="7/1" />
+<gbRunner id="529993040" runner="7" name="Ruby Wednesday" jockey="Kieren Fox" odds="8/1" />
+<gbRunner id="529993038" runner="5" name="Runaiocht" jockey="D A Parkes" odds="9/1" />
+<gbRunner id="529993036" runner="3" name="Light Of Air" jockey="Hector Crouch" odds="12/1" />
+<gbRunner id="529993039" runner="6" name="Golden Muscade" jockey="Racheal Kneller" odds="28/1" />
+<gbRunner id="529993041" runner="8" name="Boychick" jockey="Non-Runner" odds="NR" />
+</gbEvent>
+<gbEvent meeting="LINGFIELD" name="14:00 HANDICAP 1m 1y" id="11800039" distance="1m 0f" cstime="14:00" date="2017-02-03" time="14:00">
+<gbRunner id="529992916" runner="2" name="Remember Me" jockey="R L Moore" odds="1/1" />
+<gbRunner id="529992915" runner="1" name="Skidby Mill" jockey="G Baker" odds="15/8" />
+<gbRunner id="529992917" runner="3" name="Tabla" jockey="Kieren Fox" odds="4/1" />
+<gbRunner id="529992918" runner="4" name="Gold Return" jockey="Darragh Keenan" odds="16/1" />
+</gbEvent>
+<gbEvent meeting="LINGFIELD" name="14:30 CLAIMING STAKES 7f 1y" id="11800040" distance="0m 7f" cstime="14:30" date="2017-02-03" time="14:30">
+<gbRunner id="529992923" runner="3" name="Flowers On Venus" jockey="R Kingscote" odds="7/4" />
+<gbRunner id="529992926" runner="6" name="Free Zone" jockey="A Kirby" odds="4/1" />
+<gbRunner id="529992921" runner="1" name="Sophisticated Heir" jockey="R Winston" odds="11/2" />
+<gbRunner id="529992928" runner="8" name="Gramercy" jockey="M Dwyer" odds="13/2" />
+<gbRunner id="529992930" runner="10" name="Aqua Libre" jockey="J P Fahy" odds="7/1" />
+<gbRunner id="529992924" runner="4" name="Ticks The Boxes" jockey="Jordan Vaughan" odds="8/1" />
+<gbRunner id="529992922" runner="2" name="Flexible Flyer" jockey="David Probert" odds="14/1" />
+<gbRunner id="529992929" runner="9" name="Seek The Fair Land" jockey="Jane Elliott" odds="22/1" />
+<gbRunner id="529992925" runner="5" name="Corporal Maddox" jockey="L Morris" odds="33/1" />
+<gbRunner id="529992927" runner="7" name="Balliol" jockey="S W Kelly" odds="100/1" />
+</gbEvent>
+<gbEvent meeting="LINGFIELD" name="15:00 MAIDEN STAKES 1m 2f" id="11800041" distance="1m 2f" cstime="15:00" date="2017-02-03" time="15:00">
+<gbRunner id="529992936" runner="4" name="Earthly" jockey="R L Moore" odds="4/6" />
+<gbRunner id="529992933" runner="1" name="Abel Tasman" jockey="Thomas Brown" odds="4/1" />
+<gbRunner id="529992935" runner="3" name="Dream Magic" jockey="L Morris" odds="11/2" />
+<gbRunner id="529992937" runner="5" name="Gee Sixty Six" jockey="T J Murphy" odds="6/1" />
+<gbRunner id="529992934" runner="2" name="Critical Thinking" jockey="Shelley Birkett" odds="7/1" />
+<gbRunner id="529992939" runner="7" name="Surfside" jockey="S W Kelly" odds="66/1" />
+<gbRunner id="529992938" runner="6" name="Life Happens" jockey="Ryan Tate" odds="80/1" />
+</gbEvent>
+<gbEvent meeting="LINGFIELD" name="15:35 APPRENTICE HANDICAP 7f 1y" id="11800042" distance="0m 7f" cstime="15:35" date="2017-02-03" time="15:35">
+<gbRunner id="529992943" runner="2" name="Blaze Of Glory" jockey="Kieran Shoemark" odds="4/7" />
+<gbRunner id="529992942" runner="1" name="Mailshot" jockey="Richard Oliver" odds="7/4" />
+<gbRunner id="529992946" runner="5" name="Spirit Of Sarwan" jockey="Shelley Birkett" odds="14/1" />
+<gbRunner id="529992944" runner="3" name="Royal Opera House" jockey="Non-Runner" odds="NR" />
+<gbRunner id="529992945" runner="4" name="Espresso Freddo" jockey="Non-Runner" odds="NR" />
+<gbRunner id="529992947" runner="6" name="Lord Clenaghcastle" jockey="Non-Runner" odds="NR" />
+</gbEvent>
+<gbEvent meeting="LINGFIELD" name="16:10 MAIDEN STAKES 5f 6y" id="11800043" distance="0m 5f" cstime="16:10" date="2017-02-03" time="16:10">
+<gbRunner id="529992953" runner="4" name="Gnaad" jockey="L Morris" odds="1/1" />
+<gbRunner id="529992956" runner="7" name="Scealtara" jockey="Shelley Birkett" odds="11/4" />
+<gbRunner id="529992951" runner="2" name="Hot Stuff" jockey="David Probert" odds="4/1" />
+<gbRunner id="529992950" runner="1" name="Deer Song" jockey="Jane Elliott" odds="7/1" />
+<gbRunner id="529992955" runner="6" name="Neptune Star" jockey="D A Parkes" odds="20/1" />
+<gbRunner id="529992954" runner="5" name="Glamselle" jockey="Tom Marquand" odds="22/1" />
+<gbRunner id="529992952" runner="3" name="Oddsocks" jockey="William Carson" odds="33/1" />
+</gbEvent>
+<gbEvent meeting="LINGFIELD" name="16:40 HANDICAP 1m 5f" id="11800044" distance="1m 5f" cstime="16:40" date="2017-02-03" time="16:40">
+<gbRunner id="529992963" runner="5" name="Burnside" jockey="A Kirby" odds="5/4" />
+<gbRunner id="529992959" runner="1" name="Attain" jockey="L Morris" odds="6/4" />
+<gbRunner id="529992960" runner="2" name="Hallings Wish" jockey="G Baker" odds="7/1" />
+<gbRunner id="529992965" runner="7" name="Mamoo" jockey="Josephine Gordon" odds="10/1" />
+<gbRunner id="529992962" runner="4" name="Marshall Aid" jockey="K T O'Neill" odds="12/1" />
+<gbRunner id="529992964" runner="6" name="Epsom Day" jockey="Callum Shepherd" odds="18/1" />
+<gbRunner id="529992966" runner="8" name="Salient" jockey="Kieren Fox" odds="66/1" />
+<gbRunner id="529992961" runner="3" name="Thomas Blossom" jockey="Non-Runner" odds="NR" />
+</gbEvent>
+<gbEvent meeting="CATTERICK" name="13:15 JUVENILE HURDLE 2m" id="11804612" distance="1m 7f" cstime="13:15" date="2017-02-03" time="13:15">
+<gbRunner id="530227982" runner="8" name="Walsingham Grange" jockey="Kielan Woods" odds="11/8" />
+<gbRunner id="530227975" runner="1" name="Allfredandnobell" jockey="Finian O'Toole" odds="11/4" />
+<gbRunner id="530227980" runner="6" name="Shrubland" jockey="Adam Wedge" odds="9/2" />
+<gbRunner id="530227981" runner="7" name="The Otmoor Poet" jockey="T E Whelan" odds="9/2" />
+<gbRunner id="530227977" runner="3" name="Moon Arrow" jockey="Nick Scholfield" odds="12/1" />
+<gbRunner id="530227978" runner="4" name="Mr Globetrotter" jockey="S A Shortall" odds="16/1" />
+<gbRunner id="530227979" runner="5" name="Rain In The Face" jockey="Jonathan England" odds="20/1" />
+<gbRunner id="530227976" runner="2" name="Jasper Jay" jockey="D R Fox" odds="50/1" />
+<gbRunner id="530227983" runner="9" name="Desert Tango" jockey="Sean Quinlan" odds="100/1" />
+</gbEvent>
+<gbEvent meeting="CATTERICK" name="13:45 NOVICES' HURDLE 2m 3f 66y" id="11804613" distance="2m 3f" cstime="13:45" date="2017-02-03" time="13:45">
+<gbRunner id="530227986" runner="1" name="Sam Spinner" jockey="Joe Colliver" odds="8/15" />
+<gbRunner id="530227987" runner="2" name="Mr Monochrome" jockey="B Hughes" odds="11/8" />
+<gbRunner id="530227990" runner="5" name="Reverant Cust" jockey="Finian O'Toole" odds="25/1" />
+<gbRunner id="530227989" runner="4" name="Our Morris" jockey="Jonathon Bewley" odds="66/1" />
+<gbRunner id="530227991" runner="6" name="Rich Man Poor Man" jockey="Adam Nicol" odds="66/1" />
+<gbRunner id="530227988" runner="3" name="Emerald Thief" jockey="S A Shortall" odds="80/1" />
+</gbEvent>
+<gbEvent meeting="CATTERICK" name="14:15 NOVICE'S HANDICAP CHASE 2m" id="11804614" distance="1m 7f" cstime="14:15" date="2017-02-03" time="14:15">
+<gbRunner id="530227998" runner="4" name="Halcyon Days" jockey="Tony Kelly" odds="11/4" />
+<gbRunner id="530227997" runner="3" name="Caprice Danglais" jockey="Jamie Bargary" odds="9/2" />
+<gbRunner id="530227995" runner="1" name="Nomoreblackjack" jockey="Danny Cook" odds="5/1" />
+<gbRunner id="530228003" runner="9" name="Alchimix" jockey="Henry Brooke" odds="13/2" />
+<gbRunner id="530228000" runner="6" name="Fieldsofsilk" jockey="Sean Quinlan" odds="7/1" />
+<gbRunner id="530227999" runner="5" name="Las Tunas" jockey="R P McLernon" odds="9/1" />
+<gbRunner id="530227996" runner="2" name="Bladoun" jockey="Nick Scholfield" odds="11/1" />
+<gbRunner id="530228004" runner="10" name="Spread Boy" jockey="Lorcan Murtagh" odds="11/1" />
+<gbRunner id="530228001" runner="7" name="Frankie Ballou" jockey="Mr J Dawson" odds="16/1" />
+<gbRunner id="530228002" runner="8" name="Arantes" jockey="Jan Faltejsek" odds="20/1" />
+</gbEvent>
+<gbEvent meeting="CATTERICK" name="14:45 HANDICAP HURDLE 3m 1f 71y" id="11804615" distance="3m 1f" cstime="14:45" date="2017-02-03" time="14:45">
+<gbRunner id="530228012" runner="5" name="Lough Salt" jockey="Jake Greenall" odds="7/2" />
+<gbRunner id="530228016" runner="9" name="Brian Boranha" jockey="Henry Brooke" odds="7/2" />
+<gbRunner id="530228010" runner="3" name="Cadoudoff" jockey="T J O'Brien" odds="9/2" />
+<gbRunner id="530228009" runner="2" name="Cracking Find" jockey="Danny Cook" odds="11/2" />
+<gbRunner id="530228015" runner="8" name="Forty Crown" jockey="Jonathon Bewley" odds="11/2" />
+<gbRunner id="530228007" runner="1" name="Cooking Fat" jockey="B Hughes" odds="7/1" />
+<gbRunner id="530228011" runner="4" name="Wake Your Dreams" jockey="Sean Quinlan" odds="16/1" />
+<gbRunner id="530228013" runner="6" name="Askamore Darsi" jockey="W T Kennedy" odds="16/1" />
+<gbRunner id="530228014" runner="7" name="Buckskin Boulta" jockey="Non-Runner" odds="NR" />
+</gbEvent>
+<gbEvent meeting="CATTERICK" name="15:20 HANDICAP CHASE 3m 1f 54y" id="11804616" distance="3m 1f" cstime="15:20" date="2017-02-03" time="15:20">
+<gbRunner id="530228021" runner="3" name="Treaty Girl" jockey="Nico de Boinville" odds="7/4" />
+<gbRunner id="530228020" runner="2" name="Two Smokin Barrels" jockey="T Scudamore" odds="9/4" />
+<gbRunner id="530228019" runner="1" name="Actinpieces" jockey="Miss G Andrews" odds="4/1" />
+<gbRunner id="530228022" runner="4" name="Conquer Gold" jockey="Craig Nichol" odds="5/1" />
+<gbRunner id="530228023" runner="5" name="Total Assets" jockey="Callum Bewley" odds="9/1" />
+<gbRunner id="530228024" runner="6" name="La Dama De Hierro" jockey="B Hughes" odds="16/1" />
+</gbEvent>
+<gbEvent meeting="CATTERICK" name="15:55 HANDICAP CHASE 3m 1f 54y" id="11804617" distance="3m 1f" cstime="15:55" date="2017-02-03" time="15:55">
+<gbRunner id="530228028" runner="2" name="Black Narcissus" jockey="Adam Wedge" odds="11/4" />
+<gbRunner id="530228032" runner="6" name="Inchcolm" jockey="Jamie Bargary" odds="3/1" />
+<gbRunner id="530228035" runner="9" name="Tommy The Rascal" jockey="David Noonan" odds="4/1" />
+<gbRunner id="530228027" runner="1" name="Proud Gamble" jockey="Craig Nichol" odds="9/2" />
+<gbRunner id="530228029" runner="3" name="Lord Landen" jockey="Conor Shoemark" odds="15/2" />
+<gbRunner id="530228030" runner="4" name="Lakefield Rebel" jockey="Tony Kelly" odds="14/1" />
+<gbRunner id="530228034" runner="8" name="Foot The Bill" jockey="J Kington" odds="22/1" />
+<gbRunner id="530228033" runner="7" name="Valentinos Choice" jockey="D R Fox" odds="33/1" />
+<gbRunner id="530228031" runner="5" name="Dystonias Revenge" jockey="Non-Runner" odds="NR" />
+</gbEvent>
+<gbEvent meeting="CATTERICK" name="16:25 HANDICAP HURDLE 2m 3f 66y" id="11804618" distance="2m 3f" cstime="16:25" date="2017-02-03" time="16:25">
+<gbRunner id="530228038" runner="1" name="Bell Weir" jockey="Ross Chapman" odds="6/4" />
+<gbRunner id="530228046" runner="9" name="Ask Paddy" jockey="Callum Bewley" odds="10/3" />
+<gbRunner id="530228044" runner="7" name="Only A Tipple" jockey="Harry Stock" odds="5/1" />
+<gbRunner id="530228043" runner="6" name="Diego Suarez" jockey="David Noonan" odds="13/2" />
+<gbRunner id="530228040" runner="3" name="Kisumu" jockey="Finian O'Toole" odds="8/1" />
+<gbRunner id="530228041" runner="4" name="Episode" jockey="Thomas Dowson" odds="14/1" />
+<gbRunner id="530228045" runner="8" name="Broadway Belle" jockey="S A Shortall" odds="16/1" />
+<gbRunner id="530228039" runner="2" name="Should I Stay" jockey="Garry Lavery" odds="25/1" />
+<gbRunner id="530228042" runner="5" name="Rhythm Of Sound" jockey="Joe Colliver" odds="28/1" />
+</gbEvent>
+<gbEvent meeting="DUNDALK" name="17:00 CLAIMING RACE 1m 2f 150yds" id="11804971" distance="1m 2f" cstime="17:00" date="2017-02-03" time="17:00">
+<gbRunner id="530253252" runner="1" name="Hes Our Music" jockey="D P Linehan" odds="6/4" />
+<gbRunner id="530253253" runner="2" name="Catchy Lass" jockey="C J McGovern" odds="3/1" />
+<gbRunner id="530253254" runner="3" name="Fishermans Blues" jockey="C T Keane" odds="6/1" />
+<gbRunner id="530253255" runner="4" name="Fire And Passion" jockey="D E Sheehy" odds="6/1" />
+<gbRunner id="530253256" runner="5" name="Ineffable" jockey="Anastasia O'Brien" odds="9/1" />
+<gbRunner id="530253260" runner="9" name="Six Silver Lane" jockey="G P Halpin" odds="12/1" />
+<gbRunner id="530253258" runner="7" name="No Biggie" jockey="D O'Brien" odds="16/1" />
+<gbRunner id="530253257" runner="6" name="King Christophe" jockey="D W O'Connor" odds="20/1" />
+<gbRunner id="530253261" runner="10" name="Indian Tomahawk" jockey="S P Bird" odds="25/1" />
+<gbRunner id="530253262" runner="11" name="Dilly Daydream" jockey="W M Lordan" odds="33/1" />
+<gbRunner id="530253259" runner="8" name="Coral Pearl" jockey="N G McCullagh" odds="50/1" />
+<gbRunner id="530253263" runner="12" name="Torthai An Ghra" jockey="R P Cleary" odds="100/1" />
+</gbEvent>
+<gbEvent meeting="DUNDALK" name="17:30 HANDICAP 1m 2f 150yds" id="11804973" distance="1m 2f" cstime="17:30" date="2017-02-03" time="17:30">
+<gbRunner id="530253276" runner="3" name="Red Avenger" jockey="R P Cleary" odds="11/4" />
+<gbRunner id="530253280" runner="7" name="Song Of Love" jockey="W M Lordan" odds="7/2" />
+<gbRunner id="530253278" runner="5" name="Specific Gravity" jockey="R P Whelan" odds="5/1" />
+<gbRunner id="530253281" runner="8" name="Brokopondo" jockey="S P Davis" odds="6/1" />
+<gbRunner id="530253274" runner="1" name="Johann Bach" jockey="G P Halpin" odds="8/1" />
+<gbRunner id="530253279" runner="6" name="Udogo" jockey="Anastasia O'Brien" odds="9/1" />
+<gbRunner id="530253275" runner="2" name="Political Policy" jockey="C T Keane" odds="11/1" />
+<gbRunner id="530253277" runner="4" name="Shalaman" jockey="O J Orr" odds="12/1" />
+<gbRunner id="530253282" runner="9" name="Maknificent" jockey="C P Hoban" odds="20/1" />
+</gbEvent>
+<gbEvent meeting="DUNDALK" name="18:00 RATED RACE 1m 4f" id="11804975" distance="1m 4f" cstime="18:00" date="2017-02-03" time="18:00">
+<gbRunner id="530253293" runner="1" name="Duchessofflorence" jockey="C P Hoban" odds="7/2" />
+<gbRunner id="530253311" runner="11" name="War Goddess" jockey="D O'Brien" odds="7/2" />
+<gbRunner id="530253296" runner="3" name="Alnahar" jockey="R P Whelan" odds="4/1" />
+<gbRunner id="530253310" runner="10" name="Carraigin Aonair" jockey="N G McCullagh" odds="8/1" />
+<gbRunner id="530253307" runner="8" name="Bittern" jockey="W M Lordan" odds="11/1" />
+<gbRunner id="530253295" runner="2" name="Sharjah" jockey="W J Lee" odds="12/1" />
+<gbRunner id="530253313" runner="13" name="Commander Won" jockey="R P Cleary" odds="12/1" />
+<gbRunner id="530253312" runner="12" name="Sea of Blue" jockey="Anastasia O'Brien" odds="14/1" />
+<gbRunner id="530253298" runner="4" name="Black Label" jockey="D P McDonogh" odds="16/1" />
+<gbRunner id="530253301" runner="5" name="Lex Talionis" jockey="D W O'Connor" odds="16/1" />
+<gbRunner id="530253305" runner="7" name="Khabaray" jockey="C R King" odds="16/1" />
+<gbRunner id="530253309" runner="9" name="Park Row" jockey="G P Halpin" odds="16/1" />
+<gbRunner id="530253303" runner="6" name="Wither Hills" jockey="C D Maxwell" odds="20/1" />
+<gbRunner id="530253314" runner="14" name="Illusive Force" jockey="S B Kirrane" odds="33/1" />
+<gbRunner id="530253315" runner="15" name="Rabbie The Bard" jockey="RESERVE" odds="12/1" />
+<gbRunner id="530253316" runner="16" name="Tommy Welsh" jockey="RESERVE" odds="10/1" />
+<gbRunner id="530253317" runner="17" name="Jack Blue" jockey="RESERVE" odds="20/1" />
+</gbEvent>
+<gbEvent meeting="DUNDALK" name="18:30 HANDICAP 1m" id="11804978" distance="1m 0f" cstime="18:30" date="2017-02-03" time="18:30">
+<gbRunner id="530253333" runner="6" name="Easy Boy" jockey="C P Hoban" odds="3/1" />
+<gbRunner id="530253330" runner="3" name="Three Majors" jockey="D M Redmond" odds="9/2" />
+<gbRunner id="530253335" runner="8" name="Opt Out" jockey="D W O'Connor" odds="11/2" />
+<gbRunner id="530253336" runner="9" name="Try Again" jockey="D E Sheehy" odds="6/1" />
+<gbRunner id="530253332" runner="5" name="Shepherds Crook" jockey="C R King" odds="13/2" />
+<gbRunner id="530253334" runner="7" name="Gold Eliza" jockey="M C Hussey" odds="9/1" />
+<gbRunner id="530253340" runner="13" name="Rigid Rock" jockey="S P Davis" odds="9/1" />
+<gbRunner id="530253329" runner="2" name="War Room" jockey="J J Burke" odds="14/1" />
+<gbRunner id="530253338" runner="11" name="Consider" jockey="G P Brouder" odds="16/1" />
+<gbRunner id="530253331" runner="4" name="Diamond Heart" jockey="D E Hogan" odds="20/1" />
+<gbRunner id="530253337" runner="10" name="Purple Party" jockey="C J McGovern" odds="20/1" />
+<gbRunner id="530253328" runner="1" name="The Lords Walk" jockey="R Coakley" odds="33/1" />
+<gbRunner id="530253339" runner="12" name="Rising Mist" jockey="S B Kelly" odds="40/1" />
+<gbRunner id="530253341" runner="14" name="Duffys Corner" jockey="K P Moriarty" odds="66/1" />
+<gbRunner id="530253342" runner="15" name="You Gotta Move" jockey="RESERVE" odds="16/1" />
+<gbRunner id="530253343" runner="16" name="The Butches Filly" jockey="RESERVE" odds="25/1" />
+<gbRunner id="530253344" runner="17" name="Stoichkhov" jockey="RESERVE" odds="20/1" />
+</gbEvent>
+<gbEvent meeting="DUNDALK" name="19:00 MAIDEN 7f" id="11804980" distance="0m 7f" cstime="19:00" date="2017-02-03" time="19:00">
+<gbRunner id="530253360" runner="6" name="Jackmel" jockey="O J Orr" odds="3/1" />
+<gbRunner id="530253362" runner="8" name="Mr Shelby" jockey="D W O'Connor" odds="7/2" />
+<gbRunner id="530253363" runner="9" name="Tuff Love" jockey="C T Keane" odds="4/1" />
+<gbRunner id="530253359" runner="5" name="Harbour A Secret" jockey="R P Whelan" odds="9/2" />
+<gbRunner id="530253368" runner="14" name="Sheisdiesel" jockey="D E Sheehy" odds="11/2" />
+<gbRunner id="530253364" runner="10" name="Varkhann" jockey="C P Hoban" odds="6/1" />
+<gbRunner id="530253355" runner="1" name="Born On The Clyde" jockey="M C Hussey" odds="25/1" />
+<gbRunner id="530253358" runner="4" name="Flying Expectation" jockey="C R King" odds="25/1" />
+<gbRunner id="530253361" runner="7" name="Jon Ess" jockey="K J Leonard" odds="25/1" />
+<gbRunner id="530253357" runner="3" name="Eljaammi" jockey="W M Lordan" odds="33/1" />
+<gbRunner id="530253365" runner="11" name="Woodcarver" jockey="S B Kelly" odds="50/1" />
+<gbRunner id="530253367" runner="13" name="Isabella Vite" jockey="R P Cleary" odds="50/1" />
+<gbRunner id="530253356" runner="2" name="Dignified Air" jockey="M K O'Sullivan" odds="66/1" />
+<gbRunner id="530253366" runner="12" name="Boketto" jockey="R Coakley" odds="66/1" />
+<gbRunner id="530253369" runner="15" name="Honour Roll" jockey="RESERVE" odds="33/1" />
+<gbRunner id="530253370" runner="16" name="Young Special" jockey="RESERVE" odds="10/1" />
+<gbRunner id="530253372" runner="17" name="Clover Moon" jockey="RESERVE" odds="16/1" />
+</gbEvent>
+<gbEvent meeting="DUNDALK" name="19:30 HANDICAP 6f" id="11804982" distance="0m 6f" cstime="19:30" date="2017-02-03" time="19:30">
+<gbRunner id="530253386" runner="5" name="Split The Atom" jockey="O J Orr" odds="5/2" />
+<gbRunner id="530253382" runner="1" name="Shepherds Purse" jockey="K J Leonard" odds="10/3" />
+<gbRunner id="530253384" runner="3" name="Geological" jockey="Anastasia O'Brien" odds="7/2" />
+<gbRunner id="530253383" runner="2" name="Captain Cullen" jockey="R Coakley" odds="6/1" />
+<gbRunner id="530253387" runner="6" name="Burn The Boats" jockey="D W O'Connor" odds="8/1" />
+<gbRunner id="530253388" runner="7" name="Mo Henry" jockey="N G McCullagh" odds="9/1" />
+<gbRunner id="530253385" runner="4" name="Patrick" jockey="E T Daly" odds="12/1" />
+<gbRunner id="530253389" runner="8" name="The Burnham Mare" jockey="C P Hoban" odds="25/1" />
+</gbEvent>
+<gbEvent meeting="DUNDALK" name="20:00 HANDICAP 6f" id="11804984" distance="0m 6f" cstime="20:00" date="2017-02-03" time="20:00">
+<gbRunner id="530253408" runner="5" name="More Kudos" jockey="W M Lordan" odds="3/1" />
+<gbRunner id="530253411" runner="7" name="Oor Jock" jockey="D P McDonogh" odds="7/2" />
+<gbRunner id="530253406" runner="4" name="Strategic Heights" jockey="C T Keane" odds="5/1" />
+<gbRunner id="530253413" runner="8" name="Red All Star" jockey="K J Leonard" odds="11/2" />
+<gbRunner id="530253402" runner="2" name="Arlecchinos Rock" jockey="D W O'Connor" odds="15/2" />
+<gbRunner id="530253409" runner="6" name="Your Pal Tal" jockey="R P Whelan" odds="9/1" />
+<gbRunner id="530253400" runner="1" name="Jan Steen" jockey="Anastasia O'Brien" odds="16/1" />
+<gbRunner id="530253403" runner="3" name="Sartori" jockey="R P Downey" odds="20/1" />
+<gbRunner id="530253421" runner="14" name="Take A Drop" jockey="C P Hoban" odds="20/1" />
+<gbRunner id="530253417" runner="10" name="Molans Mare" jockey="D E Sheehy" odds="25/1" />
+<gbRunner id="530253418" runner="11" name="Nine Carat" jockey="M C Hussey" odds="25/1" />
+<gbRunner id="530253415" runner="9" name="Arterial" jockey="S T McCullagh" odds="33/1" />
+<gbRunner id="530253419" runner="12" name="Onchu" jockey="S P Davis" odds="33/1" />
+<gbRunner id="530253420" runner="13" name="Scobias" jockey="A J Breslin" odds="40/1" />
+<gbRunner id="530253422" runner="15" name="Little Kodi" jockey="RESERVE" odds="33/1" />
+</gbEvent>
+<gbEvent meeting="DUNDALK" name="20:30 HANDICAP 6f" id="11804986" distance="0m 6f" cstime="20:30" date="2017-02-03" time="20:30">
+<gbRunner id="530253428" runner="4" name="Alans Pride" jockey="W J Lee" odds="13/8" />
+<gbRunner id="530253425" runner="1" name="Guanabara Bay" jockey="C T Keane" odds="6/1" />
+<gbRunner id="530253438" runner="10" name="Little Cupcake" jockey="D E Sheehy" odds="7/1" />
+<gbRunner id="530253427" runner="3" name="Palavicini Run" jockey="D W O'Connor" odds="8/1" />
+<gbRunner id="530253437" runner="9" name="Dandysteps" jockey="R P Cleary" odds="8/1" />
+<gbRunner id="530253426" runner="2" name="Kodiacs Back" jockey="C R King" odds="10/1" />
+<gbRunner id="530253429" runner="5" name="Cappadocia" jockey="R P Whelan" odds="12/1" />
+<gbRunner id="530253431" runner="6" name="Mr Michael" jockey="N G McCullagh" odds="16/1" />
+<gbRunner id="530253435" runner="8" name="Neds Gift" jockey="W M Lordan" odds="16/1" />
+<gbRunner id="530253440" runner="11" name="Missile Command" jockey="S P Davis" odds="16/1" />
+<gbRunner id="530253433" runner="7" name="Bubblesontherise" jockey="R Coakley" odds="20/1" />
+<gbRunner id="530253446" runner="14" name="Fast Kar" jockey="C P Hoban" odds="25/1" />
+<gbRunner id="530253443" runner="12" name="Paytheprice" jockey="M C Hussey" odds="33/1" />
+<gbRunner id="530253445" runner="13" name="Straight Gin" jockey="K P Moriarty" odds="40/1" />
+</gbEvent>
+<gbEvent meeting="SANTA ANITA" name="21:00 EVENT 6f 110y" id="11804830" distance="" cstime="21:00" date="2017-02-03" time="21:00">
+<gbRunner id="530247333" runner="1" name="Zinvor" jockey="Santiago Gonzalez" odds="/" />
+<gbRunner id="530247334" runner="2" name="Rangi" jockey="Rafael Bejarano" odds="/" />
+<gbRunner id="530247335" runner="3" name="Atta Boy Woody" jockey="Ruben Fuentes" odds="/" />
+<gbRunner id="530247336" runner="4" name="Yes Yes Yes" jockey="Martin Pedroza" odds="/" />
+<gbRunner id="530247337" runner="5" name="Neveradoubt" jockey="Brayan Pena" odds="/" />
+<gbRunner id="530247338" runner="6" name="Los Gatos" jockey="Kent Desormeaux" odds="/" />
+<gbRunner id="530247339" runner="7" name="Unusual Meeting" jockey="Chad Lindsay" odds="/" />
+<gbRunner id="530247340" runner="8" name="Labour" jockey="Stewart Elliott" odds="/" />
+<gbRunner id="530247341" runner="9" name="Number Five" jockey="Corey Nakatani" odds="/" />
+<gbRunner id="530247342" runner="10" name="Zuri Chop" jockey="Luis Contreras" odds="/" />
+<gbRunner id="530247343" runner="11" name="Bluegrass Bronco" jockey="Joseph Talamo" odds="/" />
+<gbRunner id="530247344" runner="12" name="Chamois" jockey="Flavien Prat" odds="/" />
+</gbEvent>
+<gbEvent meeting="SANTA ANITA" name="21:30 EVENT 1m" id="11804831" distance="" cstime="21:30" date="2017-02-03" time="21:30">
+<gbRunner id="530247347" runner="1" name="Spirit World" jockey="Jose Verenzuela" odds="/" />
+<gbRunner id="530247348" runner="2" name="Gavination" jockey="Tiago Pereira" odds="/" />
+<gbRunner id="530247349" runner="3" name="Broadway Nika" jockey="Joseph Talamo" odds="/" />
+<gbRunner id="530247350" runner="4" name="Benba" jockey="Martin Pedroza" odds="/" />
+<gbRunner id="530247351" runner="5" name="Celebrity Status" jockey="Brayan Pena" odds="/" />
+<gbRunner id="530247352" runner="6" name="Horizontalyspeakin" jockey="Tyler Baze" odds="/" />
+<gbRunner id="530247353" runner="7" name="Badasmywifeletsmeb" jockey="Jorge Rosales" odds="/" />
+</gbEvent>
+<gbEvent meeting="SANTA ANITA" name="22:00 EVENT 1m" id="11804832" distance="" cstime="22:00" date="2017-02-03" time="22:00">
+<gbRunner id="530247356" runner="1" name="Yellow Bonnet" jockey="Flavien Prat" odds="/" />
+<gbRunner id="530247357" runner="2" name="Malibu Royalty" jockey="Tyler Baze" odds="/" />
+<gbRunner id="530247358" runner="3" name="Curricula" jockey="Joseph Talamo" odds="/" />
+<gbRunner id="530247359" runner="4" name="Queen Scheherazade" jockey="Norberto Jr Arroyo" odds="/" />
+<gbRunner id="530247360" runner="5" name="Warrior Vixen" jockey="Jamie Theriot" odds="/" />
+<gbRunner id="530247361" runner="6" name="Special Gal" jockey="Rafael Bejarano" odds="/" />
+</gbEvent>
+<gbEvent meeting="SANTA ANITA" name="22:30 EVENT 6f 110y" id="11804833" distance="" cstime="22:30" date="2017-02-03" time="22:30">
+<gbRunner id="530247364" runner="1" name="Winemenow" jockey="Luis Contreras" odds="/" />
+<gbRunner id="530247365" runner="2" name="Haute Style" jockey="Corey Nakatani" odds="/" />
+<gbRunner id="530247366" runner="3" name="No Name Just Fame" jockey="Gallyn Mitchell" odds="/" />
+<gbRunner id="530247367" runner="4" name="Lucky Teroda" jockey="Brice Blanc" odds="/" />
+<gbRunner id="530247368" runner="5" name="Nighty Night" jockey="Chantal Sutherland" odds="/" />
+<gbRunner id="530247369" runner="6" name="Tahitian Lagoon" jockey="Tyler Baze" odds="/" />
+<gbRunner id="530247370" runner="7" name="Rare Integrity" jockey="Mario Gutierrez" odds="/" />
+<gbRunner id="530247371" runner="8" name="My Aunt Tillie" jockey="Ruben Fuentes" odds="/" />
+<gbRunner id="530247372" runner="9" name="Starlite Style" jockey="Rafael Bejarano" odds="/" />
+<gbRunner id="530247373" runner="10" name="Rebarules Again" jockey="Norberto Jr Arroyo" odds="/" />
+<gbRunner id="530247374" runner="11" name="Moonless Sky" jockey="Mike Smith" odds="/" />
+<gbRunner id="530247375" runner="12" name="Cinzia" jockey="Israel Ocampo" odds="/" />
+<gbRunner id="530247376" runner="13" name="Merrily Merrily" jockey="Stewart Elliott" odds="/" />
+<gbRunner id="530247377" runner="14" name="Apphia" jockey="Martin Garcia" odds="/" />
+</gbEvent>
+<gbEvent meeting="SANTA ANITA" name="23:00 EVENT 5f 110y" id="11804834" distance="" cstime="23:00" date="2017-02-03" time="23:00">
+<gbRunner id="530247380" runner="1" name="Kenny Benny" jockey="Israel Ocampo" odds="/" />
+<gbRunner id="530247381" runner="2" name="Odin" jockey="Jamie Theriot" odds="/" />
+<gbRunner id="530247382" runner="3" name="Smack Talk" jockey="Joseph Talamo" odds="/" />
+<gbRunner id="530247383" runner="4" name="Sidepocket Champ" jockey="Lidio Barrientos" odds="/" />
+<gbRunner id="530247384" runner="5" name="Hot Rodin" jockey="Tyler Baze" odds="/" />
+<gbRunner id="530247385" runner="6" name="Lambo Luxx" jockey="Flavien Prat" odds="/" />
+<gbRunner id="530247386" runner="7" name="Jet Set Man" jockey="Norberto Jr Arroyo" odds="/" />
+<gbRunner id="530247387" runner="8" name="K Thirty Eight" jockey="Tiago Pereira" odds="/" />
+</gbEvent>
+<gbEvent meeting="SANTA ANITA" name="23:30 EVENT 7f" id="11804835" distance="" cstime="23:30" date="2017-02-03" time="23:30">
+<gbRunner id="530247390" runner="1" name="Demigoddess" jockey="Modesto Linares" odds="/" />
+<gbRunner id="530247391" runner="2" name="Diamondinthecenter" jockey="Tyler Baze" odds="/" />
+<gbRunner id="530247392" runner="3" name="Pontificator" jockey="Martin Pedroza" odds="/" />
+<gbRunner id="530247393" runner="4" name="Partyinthepaddock" jockey="Mike Smith" odds="/" />
+<gbRunner id="530247394" runner="5" name="It Tiz Well" jockey="Flavien Prat" odds="/" />
+<gbRunner id="530247395" runner="6" name="Carrie" jockey="Brayan Pena" odds="/" />
+<gbRunner id="530247396" runner="7" name="Ruby Trust" jockey="Stewart Elliott" odds="/" />
+</gbEvent>
+<gbEvent meeting="FAIRVIEW" name="10:35 JUVENILE PLATE 4f 214y" id="11804640" distance="0m 5f" cstime="10:35" date="2017-02-03" time="10:35">
+<gbRunner id="530228668" runner="7" name="Seattle Flame" jockey="Greg Cheyne" odds="4/5" />
+<gbRunner id="530228664" runner="3" name="Dickensian" jockey="J V'd Merwe" odds="2/1" />
+<gbRunner id="530228666" runner="5" name="Red October Sky" jockey="Wayne Agrella" odds="10/1" />
+<gbRunner id="530228667" runner="6" name="Run For Your Life" jockey="Callan Murray" odds="14/1" />
+<gbRunner id="530228673" runner="12" name="Widows Lamp" jockey="Lyle Hewitson" odds="14/1" />
+<gbRunner id="530228665" runner="4" name="One Captain" jockey="Sandile Khathi" odds="20/1" />
+<gbRunner id="530228662" runner="1" name="Battle Creek" jockey="R Danielson" odds="28/1" />
+<gbRunner id="530228663" runner="2" name="Cadillac Jack" jockey="Stallone Naidoo" odds="28/1" />
+<gbRunner id="530228672" runner="11" name="Leia Organa" jockey="Teaque Gould" odds="28/1" />
+<gbRunner id="530228670" runner="9" name="Silver Blade" jockey="C Maujean" odds="33/1" />
+<gbRunner id="530228669" runner="8" name="Show No Mercy" jockey="Nicholas Patel" odds="66/1" />
+<gbRunner id="530228671" runner="10" name="Joking Dice" jockey="Non-Runner" odds="NR" />
+</gbEvent>
+<gbEvent meeting="FAIRVIEW" name="11:05 MAIDEN PLATE 5f 212y" id="11804641" distance="0m 6f" cstime="11:05" date="2017-02-03" time="11:05">
+<gbRunner id="530228676" runner="1" name="Surfs Up" jockey="Callan Murray" odds="6/4" />
+<gbRunner id="530228677" runner="2" name="Over Drive" jockey="Andrew Fortune" odds="3/1" />
+<gbRunner id="530228685" runner="10" name="Gold Force" jockey="J V'd Merwe" odds="7/1" />
+<gbRunner id="530228678" runner="3" name="In Your Face" jockey="Sandile Khathi" odds="8/1" />
+<gbRunner id="530228686" runner="11" name="Strut Your Stuff" jockey="Greg Cheyne" odds="12/1" />
+<gbRunner id="530228679" runner="4" name="Count Du Cap" jockey="Stallone Naidoo" odds="20/1" />
+<gbRunner id="530228682" runner="7" name="Kir Royale" jockey="Lyle Hewitson" odds="22/1" />
+<gbRunner id="530228680" runner="5" name="Buck Eye" jockey="Kendall Minnie" odds="28/1" />
+<gbRunner id="530228689" runner="14" name="Singlet" jockey="R Danielson" odds="28/1" />
+<gbRunner id="530228684" runner="9" name="Prestonpan" jockey="C Maujean" odds="40/1" />
+<gbRunner id="530228688" runner="13" name="Reasonable Doubt" jockey="Teaque Gould" odds="40/1" />
+<gbRunner id="530228681" runner="6" name="Corridor Of Power" jockey="Liam Tarentaal" odds="80/1" />
+<gbRunner id="530228687" runner="12" name="Off Piste" jockey="Charles Ndlovu" odds="80/1" />
+<gbRunner id="530228683" runner="8" name="Le Grand Rouge" jockey="Non-Runner" odds="NR" />
+</gbEvent>
+<gbEvent meeting="FAIRVIEW" name="11:35 PLATE 6f 211y" id="11804642" distance="0m 7f" cstime="11:35" date="2017-02-03" time="11:35">
+<gbRunner id="530228698" runner="7" name="The Merry Widow" jockey="Andrew Fortune" odds="10/11" />
+<gbRunner id="530228694" runner="3" name="Green Lantern" jockey="Greg Cheyne" odds="2/1" />
+<gbRunner id="530228695" runner="4" name="Story Of My Life" jockey="J V'd Merwe" odds="5/1" />
+<gbRunner id="530228692" runner="1" name="Soviet Cosmonaut" jockey="Callan Murray" odds="14/1" />
+<gbRunner id="530228693" runner="2" name="Bollemakiesie" jockey="Stallone Naidoo" odds="18/1" />
+<gbRunner id="530228697" runner="6" name="Flight Captain" jockey="Ryan Munger" odds="18/1" />
+<gbRunner id="530228696" runner="5" name="Grandissimo" jockey="Non-Runner" odds="NR" />
+</gbEvent>
+<gbEvent meeting="FAIRVIEW" name="12:10 MAIDEN PLATE 7f 210y" id="11804643" distance="1m 0f" cstime="12:10" date="2017-02-03" time="12:10">
+<gbRunner id="530228703" runner="3" name="Stanleys Last" jockey="Greg Cheyne" odds="7/4" />
+<gbRunner id="530228702" runner="2" name="Relaxed Wanderer" jockey="Andrew Fortune" odds="11/4" />
+<gbRunner id="530228701" runner="1" name="Figure Of Grey" jockey="S Khumalo" odds="8/1" />
+<gbRunner id="530228704" runner="4" name="Tripolina" jockey="R Danielson" odds="8/1" />
+<gbRunner id="530228705" runner="5" name="Earthflight" jockey="J V'd Merwe" odds="8/1" />
+<gbRunner id="530228709" runner="9" name="Slope Style" jockey="Lyle Hewitson" odds="10/1" />
+<gbRunner id="530228707" runner="7" name="Oops A Daisy" jockey="Sandile Khathi" odds="14/1" />
+<gbRunner id="530228706" runner="6" name="Miss Zenobia" jockey="C Maujean" odds="28/1" />
+<gbRunner id="530228708" runner="8" name="Lookamee" jockey="Wayne Agrella" odds="50/1" />
+</gbEvent>
+<gbEvent meeting="FAIRVIEW" name="12:40 HANDICAP 1m 1f 208y" id="11804644" distance="1m 2f" cstime="12:40" date="2017-02-03" time="12:40">
+<gbRunner id="530228712" runner="1" name="Streak" jockey="R Danielson" odds="9/4" />
+<gbRunner id="530228716" runner="5" name="Pyramus" jockey="Sandile Khathi" odds="7/2" />
+<gbRunner id="530228718" runner="7" name="Rush In" jockey="J V'd Merwe" odds="9/2" />
+<gbRunner id="530228715" runner="4" name="Captains Vista" jockey="S Khumalo" odds="11/2" />
+<gbRunner id="530228717" runner="6" name="Man From Japan" jockey="Ryan Munger" odds="7/1" />
+<gbRunner id="530228714" runner="3" name="Valmode" jockey="Callan Murray" odds="16/1" />
+<gbRunner id="530228720" runner="9" name="White Christmas" jockey="Lyle Hewitson" odds="16/1" />
+<gbRunner id="530228719" runner="8" name="Sambora" jockey="Stallone Naidoo" odds="18/1" />
+<gbRunner id="530228713" runner="2" name="Titus" jockey="Shannon Devoy" odds="28/1" />
+<gbRunner id="530228722" runner="11" name="Ming Warrior" jockey="Liam Tarentaal" odds="50/1" />
+<gbRunner id="530228721" runner="10" name="Eco Storm" jockey="Non-Runner" odds="NR" />
+</gbEvent>
+<gbEvent meeting="FAIRVIEW" name="13:15 STAKES 4f 214y" id="11804645" distance="0m 5f" cstime="13:15" date="2017-02-03" time="13:15">
+<gbRunner id="530228725" runner="1" name="Victoria Lavelle" jockey="Andrew Fortune" odds="4/6" />
+<gbRunner id="530228727" runner="3" name="Easy Street" jockey="J V'd Merwe" odds="4/1" />
+<gbRunner id="530228726" runner="2" name="Summer Cruise" jockey="Greg Cheyne" odds="6/1" />
+<gbRunner id="530228732" runner="8" name="Silver Banshee" jockey="Lyle Hewitson" odds="10/1" />
+<gbRunner id="530228729" runner="5" name="Night Out" jockey="Charles Ndlovu" odds="14/1" />
+<gbRunner id="530228730" runner="6" name="Silvan Jazz" jockey="Callan Murray" odds="18/1" />
+<gbRunner id="530228731" runner="7" name="Speedy Suzy" jockey="Teaque Gould" odds="40/1" />
+<gbRunner id="530228728" runner="4" name="Harmston Herald" jockey="Non-Runner" odds="NR" />
+</gbEvent>
+<gbEvent meeting="FAIRVIEW" name="13:55 HANDICAP 4f 214y" id="11804646" distance="0m 5f" cstime="13:55" date="2017-02-03" time="13:55">
+<gbRunner id="530228740" runner="6" name="Zevenastic" jockey="Greg Cheyne" odds="9/2" />
+<gbRunner id="530228741" runner="7" name="Fire Horse" jockey="Callan Murray" odds="11/2" />
+<gbRunner id="530228736" runner="2" name="Captain On The Run" jockey="S Khumalo" odds="6/1" />
+<gbRunner id="530228742" runner="8" name="Oriental Tiger" jockey="Lyle Hewitson" odds="6/1" />
+<gbRunner id="530228735" runner="1" name="In Full Regalia" jockey="Teaque Gould" odds="7/1" />
+<gbRunner id="530228737" runner="3" name="Turbo" jockey="J V'd Merwe" odds="7/1" />
+<gbRunner id="530228743" runner="9" name="Rock Me Var" jockey="Andrew Fortune" odds="12/1" />
+<gbRunner id="530228746" runner="12" name="Chennai Spice" jockey="Stallone Naidoo" odds="12/1" />
+<gbRunner id="530228738" runner="4" name="Rock Deejay" jockey="R Danielson" odds="14/1" />
+<gbRunner id="530228739" runner="5" name="Nevada" jockey="C Maujean" odds="20/1" />
+<gbRunner id="530228744" runner="10" name="Breathless Bertie" jockey="Liam Tarentaal" odds="22/1" />
+<gbRunner id="530228745" runner="11" name="Restless Road" jockey="Ryan Munger" odds="33/1" />
+</gbEvent>
+<gbEvent meeting="FAIRVIEW" name="14:35 EVENT 7f 210y" id="11804647" distance="1m 0f" cstime="14:35" date="2017-02-03" time="14:35">
+<gbRunner id="530228750" runner="2" name="It Is Written" jockey="Andrew Fortune" odds="6/4" />
+<gbRunner id="530228751" runner="3" name="Welsh Emperor" jockey="Greg Cheyne" odds="9/2" />
+<gbRunner id="530228756" runner="8" name="Laws Of Succession" jockey="Lyle Hewitson" odds="9/2" />
+<gbRunner id="530228754" runner="6" name="Fly Like The Wind" jockey="C Maujean" odds="9/1" />
+<gbRunner id="530228749" runner="1" name="Readytogorightnow" jockey="Wayne Agrella" odds="10/1" />
+<gbRunner id="530228755" runner="7" name="Captains Slipper" jockey="Callan Murray" odds="14/1" />
+<gbRunner id="530228752" runner="4" name="Kiss Me Hardy" jockey="Teaque Gould" odds="16/1" />
+<gbRunner id="530228757" runner="9" name="Eternal Jet" jockey="Ryan Munger" odds="18/1" />
+<gbRunner id="530228758" runner="10" name="Mister Matchett" jockey="J V'd Merwe" odds="20/1" />
+<gbRunner id="530228753" runner="5" name="Orchestrated" jockey="S Khumalo" odds="28/1" />
+</gbEvent>
+<gbEvent meeting="FAIRVIEW" name="15:10 HANDICAP 6f 211y" id="11804648" distance="0m 7f" cstime="15:10" date="2017-02-03" time="15:10">
+<gbRunner id="530228762" runner="2" name="Main Exchange" jockey="Charles Ndlovu" odds="5/1" />
+<gbRunner id="530228765" runner="5" name="Red Hot Lady" jockey="Liam Tarentaal" odds="5/1" />
+<gbRunner id="530228764" runner="4" name="Classic Delight" jockey="Ryan Munger" odds="11/2" />
+<gbRunner id="530228761" runner="1" name="Let Her Fly" jockey="R Danielson" odds="6/1" />
+<gbRunner id="530228767" runner="7" name="Diamond Dynasty" jockey="Andrew Fortune" odds="9/1" />
+<gbRunner id="530228769" runner="9" name="Peach Valley" jockey="J V'd Merwe" odds="12/1" />
+<gbRunner id="530228774" runner="14" name="Lovar" jockey="Lyle Hewitson" odds="12/1" />
+<gbRunner id="530228766" runner="6" name="Bristol Blue" jockey="S Khumalo" odds="16/1" />
+<gbRunner id="530228770" runner="10" name="Chrisaldame" jockey="Callan Murray" odds="18/1" />
+<gbRunner id="530228773" runner="13" name="Eye The Countess" jockey="Shannon Devoy" odds="20/1" />
+<gbRunner id="530228771" runner="11" name="Love Everlasting" jockey="Kendall Minnie" odds="28/1" />
+<gbRunner id="530228772" runner="12" name="Shamal" jockey="C Maujean" odds="28/1" />
+<gbRunner id="530228775" runner="15" name="Night Dancer" jockey="Teaque Gould" odds="33/1" />
+<gbRunner id="530228763" runner="3" name="Belle Of Croom" jockey="Donald Bogaleboile" odds="40/1" />
+<gbRunner id="530228776" runner="16" name="Rasberry Lips" jockey="Stallone Naidoo" odds="50/1" />
+<gbRunner id="530228777" runner="17" name="Chasing Angels" jockey="Nicholas Patel" odds="50/1" />
+<gbRunner id="530228768" runner="8" name="Isabelle" jockey="Non-Runner" odds="NR" />
+<gbRunner id="530228778" runner="18" name="Streaming" jockey="Non-Runner" odds="NR" />
+</gbEvent>
+<gbEvent meeting="GREYVILLE" name="16:20 MAIDEN PLATE 4f 214y" id="11804632" distance="0m 5f" cstime="16:20" date="2017-02-03" time="16:20">
+<gbRunner id="530228575" runner="1" name="Oliver Queen" jockey="A Marcus" odds="5/4" />
+<gbRunner id="530228582" runner="8" name="Aphrodeitys Rain" jockey="M Yeni" odds="2/1" />
+<gbRunner id="530228583" runner="9" name="Cosima" jockey="S Brown" odds="7/1" />
+<gbRunner id="530228576" runner="2" name="They Say" jockey="I Sturgeon" odds="15/2" />
+<gbRunner id="530228580" runner="6" name="Blue Jasmine" jockey="A Mgudlwa" odds="10/1" />
+<gbRunner id="530228581" runner="7" name="Summer Fashion" jockey="Mandla Ntuli" odds="12/1" />
+<gbRunner id="530228578" runner="4" name="Zelensky" jockey="Ashton Arries" odds="50/1" />
+<gbRunner id="530228579" runner="5" name="Royal House" jockey="Morne Winnaar" odds="50/1" />
+<gbRunner id="530228577" runner="3" name="Roys Bullet" jockey="Tristan Godden" odds="100/1" />
+</gbEvent>
+<gbEvent meeting="GREYVILLE" name="16:55 MAIDEN PLATE 6f 211y" id="11804633" distance="0m 7f" cstime="16:55" date="2017-02-03" time="16:55">
+<gbRunner id="530228586" runner="1" name="Arran Isles" jockey="A Delpech" odds="6/4" />
+<gbRunner id="530228590" runner="5" name="Baby In Black" jockey="Tristan Godden" odds="7/2" />
+<gbRunner id="530228595" runner="10" name="Orelia" jockey="Eric Saziso Ngwane" odds="9/2" />
+<gbRunner id="530228587" runner="2" name="Earhart" jockey="S Brown" odds="10/1" />
+<gbRunner id="530228592" runner="7" name="Liberty Market" jockey="A Mgudlwa" odds="12/1" />
+<gbRunner id="530228594" runner="9" name="Justajewel" jockey="K De Melo" odds="16/1" />
+<gbRunner id="530228588" runner="3" name="If Only" jockey="Doctor S Lembethe" odds="18/1" />
+<gbRunner id="530228589" runner="4" name="Kutlwanoslove" jockey="I Sturgeon" odds="20/1" />
+<gbRunner id="530228593" runner="8" name="Kikusha" jockey="B Lerena" odds="20/1" />
+<gbRunner id="530228596" runner="11" name="Spirit Bird" jockey="S Veale" odds="33/1" />
+<gbRunner id="530228591" runner="6" name="Cybele Forest" jockey="M Yeni" odds="50/1" />
+</gbEvent>
+<gbEvent meeting="GREYVILLE" name="17:25 MAIDEN PLATE 7f 210y" id="11804634" distance="1m 0f" cstime="17:25" date="2017-02-03" time="17:25">
+<gbRunner id="530228600" runner="2" name="Master Shogun" jockey="A Delpech" odds="11/8" />
+<gbRunner id="530228602" runner="4" name="Count Philip" jockey="Tristan Godden" odds="7/1" />
+<gbRunner id="530228599" runner="1" name="Chilli Affair" jockey="A Mgudlwa" odds="8/1" />
+<gbRunner id="530228601" runner="3" name="Land Of The Gods" jockey="I Sturgeon" odds="8/1" />
+<gbRunner id="530228606" runner="8" name="Secret Service" jockey="S Veale" odds="8/1" />
+<gbRunner id="530228605" runner="7" name="Kash Is King" jockey="Warren Kennedy" odds="10/1" />
+<gbRunner id="530228610" runner="12" name="Sherman" jockey="K De Melo" odds="10/1" />
+<gbRunner id="530228603" runner="5" name="Storm Hero" jockey="B Lerena" odds="16/1" />
+<gbRunner id="530228604" runner="6" name="Dom Seguidor" jockey="S Brown" odds="16/1" />
+<gbRunner id="530228607" runner="9" name="Bold Winter Dream" jockey="Morne Winnaar" odds="25/1" />
+<gbRunner id="530228608" runner="10" name="Lord Uno" jockey="Doctor S Lembethe" odds="100/1" />
+<gbRunner id="530228609" runner="11" name="Main Flyer" jockey="Ashton Arries" odds="100/1" />
+<gbRunner id="530228611" runner="13" name="Olerai" jockey="Non-Runner" odds="NR" />
+</gbEvent>
+<gbEvent meeting="GREYVILLE" name="17:55 HANDICAP 7f 210y" id="11804635" distance="1m 0f" cstime="17:55" date="2017-02-03" time="17:55">
+<gbRunner id="530228616" runner="3" name="Heptagon" jockey="A Marcus" odds="10/11" />
+<gbRunner id="530228615" runner="2" name="Big Si" jockey="M Yeni" odds="4/1" />
+<gbRunner id="530228619" runner="6" name="Roys Sailor" jockey="A Mgudlwa" odds="7/1" />
+<gbRunner id="530228617" runner="4" name="Astroman" jockey="I Sturgeon" odds="8/1" />
+<gbRunner id="530228614" runner="1" name="Seek The Summit" jockey="S Brown" odds="14/1" />
+<gbRunner id="530228618" runner="5" name="Willoughton" jockey="S Veale" odds="14/1" />
+<gbRunner id="530228623" runner="10" name="Queen Of Credit" jockey="Benny Dean" odds="20/1" />
+<gbRunner id="530228621" runner="8" name="Roys Gul Gul Ha" jockey="Serino Moodley" odds="33/1" />
+<gbRunner id="530228620" runner="7" name="Irish Dynasty" jockey="Non-Runner" odds="NR" />
+<gbRunner id="530228622" runner="9" name="Big Bird" jockey="Non-Runner" odds="NR" />
+</gbEvent>
+<gbEvent meeting="GREYVILLE" name="18:25 HANDICAP 1m 1f 208y" id="11804636" distance="1m 2f" cstime="18:25" date="2017-02-03" time="18:25">
+<gbRunner id="530228627" runner="2" name="Mr Winsome" jockey="A Delpech" odds="2/1" />
+<gbRunner id="530228628" runner="3" name="Persian Rug" jockey="B Lerena" odds="7/2" />
+<gbRunner id="530228633" runner="8" name="Pure Valor" jockey="M Yeni" odds="4/1" />
+<gbRunner id="530228629" runner="4" name="Great Rumpus" jockey="I Sturgeon" odds="8/1" />
+<gbRunner id="530228630" runner="5" name="Hyaku" jockey="A Mgudlwa" odds="8/1" />
+<gbRunner id="530228626" runner="1" name="Kittys Destiny" jockey="K De Melo" odds="12/1" />
+<gbRunner id="530228631" runner="6" name="Thirtytwo Squadron" jockey="Serino Moodley" odds="14/1" />
+<gbRunner id="530228632" runner="7" name="Magical Bet" jockey="Warren Kennedy" odds="14/1" />
+<gbRunner id="530228634" runner="9" name="The Royal Rumba" jockey="Eric Saziso Ngwane" odds="25/1" />
+</gbEvent>
+<gbEvent meeting="GREYVILLE" name="18:55 HANDICAP 1m 1f 208y" id="11804637" distance="1m 2f" cstime="18:55" date="2017-02-03" time="18:55">
+<gbRunner id="530228637" runner="1" name="Night Circus" jockey="A Delpech" odds="8/11" />
+<gbRunner id="530228641" runner="5" name="Just Cruised In" jockey="Warren Kennedy" odds="9/2" />
+<gbRunner id="530228643" runner="7" name="Classe Mondiale" jockey="Ashton Arries" odds="7/1" />
+<gbRunner id="530228638" runner="2" name="Chrome Blue" jockey="K De Melo" odds="12/1" />
+<gbRunner id="530228640" runner="4" name="Kalis King" jockey="Eric Saziso Ngwane" odds="14/1" />
+<gbRunner id="530228639" runner="3" name="Viking Red" jockey="I Sturgeon" odds="16/1" />
+<gbRunner id="530228644" runner="8" name="Icy Avalanche" jockey="M Yeni" odds="16/1" />
+<gbRunner id="530228642" runner="6" name="For Ever" jockey="Diego De Gouveia" odds="22/1" />
+<gbRunner id="530228645" runner="9" name="Priceless Gem" jockey="Khanya Sakayi" odds="22/1" />
+</gbEvent>
+<gbEvent meeting="GREYVILLE" name="19:25 MAIDEN STAKES 5f 212y" id="11804638" distance="0m 6f" cstime="19:25" date="2017-02-03" time="19:25">
+<gbRunner id="530228654" runner="7" name="Wavebreaker" jockey="M Yeni" odds="4/1" />
+<gbRunner id="530228650" runner="3" name="Panza" jockey="S Brown" odds="5/1" />
+<gbRunner id="530228648" runner="1" name="Silver Ridge" jockey="A Delpech" odds="11/2" />
+<gbRunner id="530228653" runner="6" name="Structured Reply" jockey="B Lerena" odds="11/2" />
+<gbRunner id="530228655" runner="8" name="King Django" jockey="A Mgudlwa" odds="6/1" />
+<gbRunner id="530228656" runner="9" name="Great Value" jockey="A Marcus" odds="8/1" />
+<gbRunner id="530228657" runner="10" name="Pyrenees In Spain" jockey="I Sturgeon" odds="10/1" />
+<gbRunner id="530228651" runner="4" name="Hooponopono" jockey="K De Melo" odds="12/1" />
+<gbRunner id="530228649" runner="2" name="Roys Winter Patch" jockey="Warren Kennedy" odds="16/1" />
+<gbRunner id="530228652" runner="5" name="Kingsmead" jockey="Morne Winnaar" odds="25/1" />
+<gbRunner id="530228658" runner="11" name="Sailabrate" jockey="Eric Saziso Ngwane" odds="28/1" />
+</gbEvent>
+<gbEvent meeting="GULFSTREAM" name="17:35 EVENT 1m 110y" id="11804872" distance="" cstime="17:35" date="2017-02-03" time="17:35">
+<gbRunner id="530247842" runner="1" name="Rare Mix" jockey="Nik Juarez" odds="/" />
+<gbRunner id="530247843" runner="2" name="Luna Lunita" jockey="Eddie Dominguez" odds="/" />
+<gbRunner id="530247844" runner="3" name="Break Away" jockey="Luis Saez" odds="/" />
+<gbRunner id="530247845" runner="4" name="Cape Magic" jockey="Tyler Gaffalione" odds="/" />
+<gbRunner id="530247846" runner="5" name="Fish And Chips" jockey="Corey Lanerie" odds="/" />
+<gbRunner id="530247847" runner="6" name="Celtic Embrace" jockey="Paco Lopez" odds="/" />
+<gbRunner id="530247848" runner="7" name="Diplomatic Affair" jockey="Emisael Jaramillo" odds="/" />
+<gbRunner id="530247849" runner="8" name="Voila La Victoire" jockey="Edgar Prado" odds="/" />
+</gbEvent>
+<gbEvent meeting="GULFSTREAM" name="18:04 EVENT 1m" id="11804873" distance="" cstime="18:04" date="2017-02-03" time="18:04">
+<gbRunner id="530247852" runner="1" name="Elizabeths Vow" jockey="Luca Panici" odds="/" />
+<gbRunner id="530247853" runner="2" name="Mizz Tutu" jockey="Corey Lanerie" odds="/" />
+<gbRunner id="530247854" runner="3" name="Harpers Smile" jockey="Javier Castellano" odds="/" />
+<gbRunner id="530247855" runner="4" name="Vanishing Lady" jockey="Jose Garcia" odds="/" />
+<gbRunner id="530247856" runner="5" name="Eva London" jockey="Elvis Trujillo" odds="/" />
+<gbRunner id="530247857" runner="6" name="Broken Meadow" jockey="Nik Juarez" odds="/" />
+<gbRunner id="530247858" runner="7" name="Tapicera" jockey="Jorge Ruiz" odds="/" />
+</gbEvent>
+<gbEvent meeting="GULFSTREAM" name="18:33 EVENT 1m" id="11804874" distance="" cstime="18:33" date="2017-02-03" time="18:33">
+<gbRunner id="530247861" runner="1" name="Bishi" jockey="Eddie Dominguez" odds="/" />
+<gbRunner id="530247862" runner="2" name="Luckisback" jockey="Jilver Chamafi" odds="/" />
+<gbRunner id="530247863" runner="3" name="Randy Sr" jockey="Juan Leyva" odds="/" />
+<gbRunner id="530247864" runner="4" name="American Tzar" jockey="Raul Mena" odds="/" />
+<gbRunner id="530247865" runner="5" name="Tito Control" jockey="Jairo Hernandez" odds="/" />
+<gbRunner id="530247866" runner="6" name="Nephew Howard D" jockey="Miguel Vasquez" odds="/" />
+<gbRunner id="530247867" runner="7" name="Gran Abarrio" jockey="Edgard Zayas" odds="/" />
+<gbRunner id="530247868" runner="8" name="Il Nonno" jockey="Leonel Reyes" odds="/" />
+</gbEvent>
+<gbEvent meeting="GULFSTREAM" name="19:02 EVENT 6f 110y" id="11804875" distance="" cstime="19:02" date="2017-02-03" time="19:02">
+<gbRunner id="530247871" runner="1" name="Red At Last" jockey="Nik Juarez" odds="/" />
+<gbRunner id="530247872" runner="2" name="Epic Drama" jockey="Luis Saez" odds="/" />
+<gbRunner id="530247873" runner="3" name="Bobby Blue Eyes" jockey="Tyler Gaffalione" odds="/" />
+<gbRunner id="530247874" runner="4" name="Crackin Jon" jockey="Joel Rosario" odds="/" />
+<gbRunner id="530247875" runner="5" name="Charlie The Greek" jockey="Leonel Reyes" odds="/" />
+<gbRunner id="530247876" runner="6" name="Red Cotton" jockey="Carlos Olivero" odds="/" />
+<gbRunner id="530247877" runner="7" name="Ledbetter" jockey="Paco Lopez" odds="/" />
+<gbRunner id="530247878" runner="8" name="Arlens Prospect" jockey="Corey Lanerie" odds="/" />
+<gbRunner id="530247879" runner="9" name="Vencedor" jockey="Javier Castellano" odds="/" />
+</gbEvent>
+<gbEvent meeting="GULFSTREAM" name="19:32 EVENT 1m" id="11804876" distance="" cstime="19:32" date="2017-02-03" time="19:32">
+<gbRunner id="530247882" runner="1" name="Eklipsado" jockey="Edgard Zayas" odds="/" />
+<gbRunner id="530247883" runner="2" name="Mass Approval" jockey="Jairo Hernandez" odds="/" />
+<gbRunner id="530247884" runner="3" name="Gran Identidad" jockey="Pedro Jr Monterrey" odds="/" />
+<gbRunner id="530247885" runner="4" name="Horner Man" jockey="Corey Lanerie" odds="/" />
+<gbRunner id="530247886" runner="5" name="Buster Rocks" jockey="Luca Panici" odds="/" />
+<gbRunner id="530247887" runner="6" name="Royal Rogue" jockey="Eduardo Nunez" odds="/" />
+<gbRunner id="530247888" runner="7" name="Madroos" jockey="Nik Juarez" odds="/" />
+<gbRunner id="530247889" runner="8" name="Sky Guy" jockey="Miguel Vasquez" odds="/" />
+</gbEvent>
+<gbEvent meeting="GULFSTREAM" name="20:02 EVENT 1m 1f 110y" id="11804877" distance="" cstime="20:02" date="2017-02-03" time="20:02">
+<gbRunner id="530247892" runner="1" name="Mo Light" jockey="Edgard Zayas" odds="/" />
+<gbRunner id="530247893" runner="2" name="Believe In Angels" jockey="Paco Lopez" odds="/" />
+<gbRunner id="530247894" runner="3" name="Above The Mark" jockey="Luis Saez" odds="/" />
+<gbRunner id="530247895" runner="4" name="Sistine Sista" jockey="Emisael Jaramillo" odds="/" />
+<gbRunner id="530247896" runner="5" name="War Baby" jockey="Luca Panici" odds="/" />
+<gbRunner id="530247897" runner="6" name="Charlotes Star" jockey="Javier Castellano" odds="/" />
+<gbRunner id="530247898" runner="7" name="Angels Seven" jockey="Nik Juarez" odds="/" />
+<gbRunner id="530247899" runner="8" name="Blenheim Palace" jockey="John Velazquez" odds="/" />
+</gbEvent>
+<gbEvent meeting="GULFSTREAM" name="20:32 EVENT 7f 110y" id="11804878" distance="" cstime="20:32" date="2017-02-03" time="20:32">
+<gbRunner id="530247902" runner="1" name="Hollywood Tomcat" jockey="Tyler Gaffalione" odds="/" />
+<gbRunner id="530247903" runner="2" name="Pegasus Kitten" jockey="Jose Ortiz" odds="/" />
+<gbRunner id="530247904" runner="3" name="Ace Of Hearts" jockey="Javier Castellano" odds="/" />
+<gbRunner id="530247905" runner="4" name="Bradleys Sunshine" jockey="Jose Lezcano" odds="/" />
+<gbRunner id="530247906" runner="5" name="Tizthesound" jockey="Corey Lanerie" odds="/" />
+<gbRunner id="530247907" runner="6" name="S S Illuminati" jockey="Paco Lopez" odds="/" />
+<gbRunner id="530247908" runner="7" name="La Boot On" jockey="Lane Luzzi" odds="/" />
+<gbRunner id="530247909" runner="8" name="Catnapped" jockey="Luca Panici" odds="/" />
+<gbRunner id="530247910" runner="9" name="Spunzig" jockey="Carlos Hernandez" odds="/" />
+<gbRunner id="530247911" runner="10" name="Along The Trail" jockey="Carlos Olivero" odds="/" />
+<gbRunner id="530247912" runner="11" name="Dietitian Michelle" jockey="Marcos Meneses" odds="/" />
+<gbRunner id="530247913" runner="12" name="Nightstorm" jockey="Pedro Jr Monterrey" odds="/" />
+</gbEvent>
+<gbEvent meeting="GULFSTREAM" name="21:02 EVENT 1m 110y" id="11804880" distance="" cstime="21:02" date="2017-02-03" time="21:02">
+<gbRunner id="530247917" runner="1" name="Beasley" jockey="Jose Ortiz" odds="/" />
+<gbRunner id="530247918" runner="2" name="Silent Decree" jockey="Edgar Prado" odds="/" />
+<gbRunner id="530247919" runner="3" name="Painters Rags" jockey="Trevor McCarthy" odds="/" />
+<gbRunner id="530247920" runner="4" name="Lookin At Blessing" jockey="Nik Juarez" odds="/" />
+<gbRunner id="530247921" runner="5" name="Battalion Runner" jockey="John Velazquez" odds="/" />
+<gbRunner id="530247922" runner="6" name="Arrecife" jockey="Marcos Meneses" odds="/" />
+<gbRunner id="530247923" runner="7" name="Fire For Effect" jockey="Corey Lanerie" odds="/" />
+<gbRunner id="530247924" runner="8" name="Woodrow" jockey="Tyler Gaffalione" odds="/" />
+</gbEvent>
+<gbEvent meeting="GULFSTREAM" name="21:32 EVENT 7f 110y" id="11804881" distance="" cstime="21:32" date="2017-02-03" time="21:32">
+<gbRunner id="530247927" runner="1" name="Kabang" jockey="Trevor McCarthy" odds="/" />
+<gbRunner id="530247928" runner="2" name="Carbon Data" jockey="Javier Castellano" odds="/" />
+<gbRunner id="530247929" runner="3" name="Salutation" jockey="Luis Saez" odds="/" />
+<gbRunner id="530247930" runner="4" name="Blind Ruckus" jockey="Jilver Chamafi" odds="/" />
+<gbRunner id="530247931" runner="5" name="Songeur" jockey="John Velazquez" odds="/" />
+<gbRunner id="530247932" runner="6" name="More Alex" jockey="Tyler Gaffalione" odds="/" />
+<gbRunner id="530247933" runner="7" name="Dancers Edge" jockey="Miguel Vasquez" odds="/" />
+<gbRunner id="530247934" runner="8" name="Aqua Teen" jockey="Nik Juarez" odds="/" />
+<gbRunner id="530247935" runner="9" name="Hawk" jockey="Corey Lanerie" odds="/" />
+</gbEvent>
+<gbEvent meeting="GULFSTREAM" name="22:02 EVENT 5f" id="11804882" distance="" cstime="22:02" date="2017-02-03" time="22:02">
+<gbRunner id="530247938" runner="1" name="Wheres The Bay" jockey="Jairo Hernandez" odds="/" />
+<gbRunner id="530247939" runner="2" name="Banzai Charge" jockey="Pedro Jr Monterrey" odds="/" />
+<gbRunner id="530247940" runner="3" name="Gran The Man" jockey="Luis Saez" odds="/" />
+<gbRunner id="530247941" runner="4" name="Chia Ghost" jockey="Paco Lopez" odds="/" />
+<gbRunner id="530247942" runner="5" name="Swagger" jockey="Carlos Olivero" odds="/" />
+<gbRunner id="530247943" runner="6" name="Red Creme" jockey="Corey Lanerie" odds="/" />
+<gbRunner id="530247944" runner="7" name="More Mia" jockey="Emisael Jaramillo" odds="/" />
+<gbRunner id="530247945" runner="8" name="Creaky Cricket" jockey="Jose Ortiz" odds="/" />
+</gbEvent>
+<gbEvent meeting="GULFSTREAM" name="22:02 EVENT 5f" id="11804882" distance="" cstime="22:02" date="2017-02-03" time="22:02">
+<gbRunner id="530247938" runner="1" name="Wheres The Bay" jockey="Jairo Hernandez" odds="/" />
+<gbRunner id="530247939" runner="2" name="Banzai Charge" jockey="Pedro Jr Monterrey" odds="/" />
+<gbRunner id="530247940" runner="3" name="Gran The Man" jockey="Luis Saez" odds="/" />
+<gbRunner id="530247941" runner="4" name="Chia Ghost" jockey="Paco Lopez" odds="/" />
+<gbRunner id="530247942" runner="5" name="Swagger" jockey="Carlos Olivero" odds="/" />
+<gbRunner id="530247943" runner="6" name="Red Creme" jockey="Corey Lanerie" odds="/" />
+<gbRunner id="530247944" runner="7" name="More Mia" jockey="Emisael Jaramillo" odds="/" />
+<gbRunner id="530247945" runner="8" name="Creaky Cricket" jockey="Jose Ortiz" odds="/" />
+</gbEvent>
+<gbEvent meeting="PENN NATIONAL" name="23:00 EVENT 5f" id="11804807" distance="" cstime="23:00" date="2017-02-03" time="23:00">
+<gbRunner id="530247062" runner="1" name="Gone Honorable" jockey="Dana Whitney" odds="/" />
+<gbRunner id="530247063" runner="2" name="Finish The Job" jockey="Tyler Conner" odds="/" />
+<gbRunner id="530247064" runner="3" name="Sho Me Success" jockey="Wilfredo Corujo" odds="/" />
+<gbRunner id="530247065" runner="4" name="Itsbeenonmymind" jockey="Clinton Potts" odds="/" />
+<gbRunner id="530247066" runner="5" name="Peace Of Green Rvf" jockey="Edilberto Rodriguez" odds="/" />
+<gbRunner id="530247067" runner="6" name="One Step Closer" jockey="Angel Rodriguez" odds="/" />
+</gbEvent>
+<gbEvent meeting="PENN NATIONAL" name="23:27 EVENT 5f" id="11804808" distance="" cstime="23:27" date="2017-02-03" time="23:27">
+<gbRunner id="530247070" runner="1" name="Strike Bold" jockey="Ruben Silvera" odds="/" />
+<gbRunner id="530247071" runner="2" name="Win Wish" jockey="Jorge Perez" odds="/" />
+<gbRunner id="530247072" runner="3" name="Troy Story" jockey="Silvestre Gonzalez" odds="/" />
+<gbRunner id="530247073" runner="4" name="Royal George" jockey="Matthew Rispoli" odds="/" />
+<gbRunner id="530247074" runner="5" name="My Man Thirsty" jockey="William Otero" odds="/" />
+<gbRunner id="530247075" runner="6" name="Lord Baltimore" jockey="Luis Ocasio" odds="/" />
+<gbRunner id="530247076" runner="7" name="War Executive" jockey="Jenn Miller" odds="/" />
+</gbEvent>
+<gbEvent meeting="PENN NATIONAL" name="23:54 EVENT 1m" id="11804809" distance="" cstime="23:54" date="2017-02-03" time="23:54">
+<gbRunner id="530247079" runner="1" name="Confirm" jockey="David Castillo" odds="/" />
+<gbRunner id="530247080" runner="2" name="Special Request" jockey="Emilio Flores" odds="/" />
+<gbRunner id="530247081" runner="3" name="Nyx Warrior" jockey="Andrew Wolfsont" odds="/" />
+<gbRunner id="530247082" runner="4" name="Albeit Sylvia" jockey="Erika Micklos" odds="/" />
+<gbRunner id="530247083" runner="5" name="Her Divineness" jockey="Felix Pinero" odds="/" />
+<gbRunner id="530247084" runner="6" name="My Pal Katherine" jockey="Domingo Chacaltana" odds="/" />
+</gbEvent>
+<gbEvent meeting="PAU" name="12:10 CHASE 2m 198yds" id="11804952" distance="" cstime="12:10" date="2017-02-03" time="12:10">
+<gbRunner id="530253058" runner="1" name="Gorvino" jockey="Ad Fouchet" odds="/" />
+<gbRunner id="530253059" runner="2" name="Keenlaska" jockey="F Mitchell" odds="/" />
+<gbRunner id="530253060" runner="3" name="Night Gigolo" jockey="T Gaullier" odds="/" />
+<gbRunner id="530253061" runner="4" name="Eliot Ness" jockey="A Ruiz Gonzalez" odds="/" />
+<gbRunner id="530253062" runner="5" name="Golden Day" jockey="N Terrassin" odds="/" />
+</gbEvent>
+<gbEvent meeting="PAU" name="12:47 HANDICAP CHASE 2m 3f 194yds" id="11804954" distance="" cstime="12:47" date="2017-02-03" time="12:47">
+<gbRunner id="530253073" runner="1" name="Ysawa" jockey="S Paillard" odds="/" />
+<gbRunner id="530253074" runner="2" name="Poliboy" jockey="W Denuault" odds="/" />
+<gbRunner id="530253075" runner="3" name="Tosca La Diva" jockey="D Mescam" odds="/" />
+<gbRunner id="530253076" runner="4" name="Beau Rochelais" jockey="J Duchene" odds="/" />
+<gbRunner id="530253079" runner="5" name="Sam" jockey="O Jouin" odds="/" />
+<gbRunner id="530253081" runner="6" name="Espoir De Bellouet" jockey="A Poirier" odds="/" />
+<gbRunner id="530253082" runner="7" name="Tom Roli" jockey="T Lemagnen" odds="/" />
+<gbRunner id="530253083" runner="8" name="Baby Boy" jockey="C Lefebvre" odds="/" />
+<gbRunner id="530253084" runner="9" name="Via Dolorosa" jockey="P Lucas" odds="/" />
+<gbRunner id="530253087" runner="10" name="Violon De Brejoux" jockey="A Chitray" odds="/" />
+<gbRunner id="530253089" runner="11" name="Baraka De Thaix" jockey="G Re" odds="/" />
+<gbRunner id="530253091" runner="12" name="Tamezzo" jockey="J Charron" odds="/" />
+<gbRunner id="530253093" runner="13" name="Telenomie" jockey="T Beaurain" odds="/" />
+<gbRunner id="530253094" runner="14" name="Argentier" jockey="K Nabet" odds="/" />
+<gbRunner id="530253095" runner="15" name="Vanadium" jockey="M Delmares" odds="/" />
+<gbRunner id="530253096" runner="16" name="Baouri" jockey="A Ruiz Gonzalez" odds="/" />
+</gbEvent>
+<gbEvent meeting="PAU" name="13:20 CHASE 2m 6f 190yds" id="11804956" distance="" cstime="13:20" date="2017-02-03" time="13:20">
+<gbRunner id="530253099" runner="1" name="Blason Dor" jockey="P Dubourg" odds="/" />
+<gbRunner id="530253101" runner="2" name="Jardin Derevan" jockey="Mr C Prunault" odds="/" />
+<gbRunner id="530253103" runner="3" name="Summer Creek" jockey="J Delaunay" odds="/" />
+<gbRunner id="530253105" runner="4" name="Wind Silver" jockey="S Maussion" odds="/" />
+<gbRunner id="530253107" runner="5" name="Aupalim" jockey="A Zuliani" odds="/" />
+<gbRunner id="530253109" runner="6" name="Vivamar" jockey="D Artu" odds="/" />
+<gbRunner id="530253111" runner="7" name="Lou King" jockey="J Foucher" odds="/" />
+</gbEvent>
+<gbEvent meeting="PAU" name="13:50 HURDLE 2m 1f 87yds" id="11804958" distance="" cstime="13:50" date="2017-02-03" time="13:50">
+<gbRunner id="530253116" runner="1" name="Dea" jockey="C Lefebvre" odds="/" />
+<gbRunner id="530253117" runner="2" name="Mona Chope" jockey="E Bureller" odds="/" />
+<gbRunner id="530253118" runner="3" name="Delice Nouba" jockey="T Lemagnen" odds="/" />
+<gbRunner id="530253119" runner="4" name="Lady Ming" jockey="K Nabet" odds="/" />
+<gbRunner id="530253120" runner="5" name="Goddess Freja" jockey="W Denuault" odds="/" />
+<gbRunner id="530253122" runner="6" name="Dragee Haute" jockey="F Giles" odds="/" />
+<gbRunner id="530253124" runner="7" name="Naoura" jockey="S Paillard" odds="/" />
+<gbRunner id="530253126" runner="8" name="Molly Has" jockey="T Beaurain" odds="/" />
+<gbRunner id="530253128" runner="9" name="Bella Rugosa" jockey="D gallon" odds="/" />
+</gbEvent>
+<gbEvent meeting="PAU" name="14:20 HURDLE 2m 1f 87yds" id="11804960" distance="" cstime="14:20" date="2017-02-03" time="14:20">
+<gbRunner id="530253135" runner="1" name="Epoustouflaunt" jockey="K Dubourg" odds="/" />
+<gbRunner id="530253136" runner="2" name="Saint Leo" jockey="B Lestrade" odds="/" />
+<gbRunner id="530253138" runner="3" name="Flapjack" jockey="G Re" odds="/" />
+<gbRunner id="530253139" runner="4" name="Long Breeze" jockey="T Beaurain" odds="/" />
+<gbRunner id="530253144" runner="6" name="Birdparker" jockey="G Masure" odds="/" />
+<gbRunner id="530253148" runner="7" name="Chestnut Dream" jockey="C Lefebvre" odds="/" />
+<gbRunner id="530253150" runner="8" name="Lou Princess" jockey="A Poirier" odds="/" />
+<gbRunner id="530253151" runner="9" name="Beaute Promise" jockey="T Lemagnen" odds="/" />
+<gbRunner id="530253142" runner="5" name="Tahanrun" jockey="Non-Runner" odds="NR" />
+</gbEvent>
+<gbEvent meeting="PAU" name="14:55 HANDICAP 1m 3f 204yds" id="11804963" distance="" cstime="14:55" date="2017-02-03" time="14:55">
+<gbRunner id="530253161" runner="1" name="Abayo" jockey="C Soumillon" odds="/" />
+<gbRunner id="530253163" runner="2" name="Truffle Black" jockey="G Siaffa" odds="/" />
+<gbRunner id="530253164" runner="3" name="Pack Dream" jockey="D Morisson" odds="/" />
+<gbRunner id="530253165" runner="4" name="Mascarado" jockey="V Janacek" odds="/" />
+<gbRunner id="530253166" runner="5" name="High Chief" jockey="F Garnier" odds="/" />
+<gbRunner id="530253167" runner="6" name="Guyapi" jockey="Lily Le Pemp" odds="/" />
+<gbRunner id="530253168" runner="7" name="Mihanie" jockey="M Forest" odds="/" />
+<gbRunner id="530253169" runner="8" name="Virtual Game" jockey="F Lefebvre" odds="/" />
+<gbRunner id="530253170" runner="9" name="Ty Bolide" jockey="M Foulon" odds="/" />
+<gbRunner id="530253171" runner="10" name="Divine Vati" jockey="C Cadel" odds="/" />
+<gbRunner id="530253172" runner="11" name="Balfour" jockey="R C Montenegro" odds="/" />
+<gbRunner id="530253173" runner="12" name="Got Run" jockey="E Hardouin" odds="/" />
+<gbRunner id="530253174" runner="13" name="Surspenders" jockey="H Journiac" odds="/" />
+<gbRunner id="530253175" runner="14" name="Slon He" jockey="V Seguy" odds="/" />
+</gbEvent>
+<gbEvent meeting="PAU" name="15:25 HURDLE 2m 1f 87yds" id="11804965" distance="" cstime="15:25" date="2017-02-03" time="15:25">
+<gbRunner id="530253183" runner="1" name="Deexos Darree" jockey="M Delmares" odds="/" />
+<gbRunner id="530253185" runner="2" name="Bigodou" jockey="Y Kondoki" odds="/" />
+<gbRunner id="530253187" runner="3" name="Give Love" jockey="S Medina" odds="/" />
+<gbRunner id="530253189" runner="4" name="Dulce Panem" jockey="A Ruiz Gonzalez" odds="/" />
+<gbRunner id="530253190" runner="5" name="Neauvalis" jockey="E Bureller" odds="/" />
+<gbRunner id="530253191" runner="6" name="Les Affres" jockey="R Le Stang" odds="/" />
+<gbRunner id="530253192" runner="7" name="Bucks Broker" jockey="F Giles" odds="/" />
+<gbRunner id="530253193" runner="8" name="Everythings Well" jockey="K Nabet" odds="/" />
+<gbRunner id="530253194" runner="9" name="Oihan Chop" jockey="G Re" odds="/" />
+<gbRunner id="530253195" runner="10" name="Rue Palatine" jockey="D Mescam" odds="/" />
+</gbEvent>
+<gbEvent meeting="PAU" name="15:55 HANDICAP 1m 4f" id="11804967" distance="" cstime="15:55" date="2017-02-03" time="15:55">
+<gbRunner id="530253206" runner="1" name="Shirocco Junior" jockey="J Resimont" odds="/" />
+<gbRunner id="530253207" runner="2" name="Dempasar" jockey="F Garnier" odds="/" />
+<gbRunner id="530253208" runner="3" name="Ley De Leyes" jockey="J Grosjean" odds="/" />
+<gbRunner id="530253209" runner="4" name="Lurayan" jockey="V Janacek" odds="/" />
+<gbRunner id="530253210" runner="5" name="Sunny Cat" jockey="G Siaffa" odds="/" />
+<gbRunner id="530253211" runner="6" name="Falkhair" jockey="C Soumillon" odds="/" />
+<gbRunner id="530253212" runner="7" name="Mon Ptit Lu" jockey="D Morisson" odds="/" />
+<gbRunner id="530253213" runner="8" name="And Baroke" jockey="R Sousa Ferreira" odds="/" />
+<gbRunner id="530253214" runner="9" name="French Plaisir" jockey="M Forest" odds="/" />
+<gbRunner id="530253216" runner="11" name="Zalayouni" jockey="E Hardouin" odds="/" />
+<gbRunner id="530253217" runner="12" name="Propulsion" jockey="E Corallo" odds="/" />
+<gbRunner id="530253218" runner="13" name="Golden Criss" jockey="V Seguy" odds="/" />
+<gbRunner id="530253219" runner="14" name="Brooklyn Thomas" jockey="J Smith" odds="/" />
+<gbRunner id="530253215" runner="10" name="Early Flower" jockey="Non-Runner" odds="NR" />
+</gbEvent>
+<gbEvent meeting="PAU" name="16:30 HANDICAP CHASE 2m 3f 194yds" id="11804969" distance="" cstime="16:30" date="2017-02-03" time="16:30">
+<gbRunner id="530253230" runner="1" name="Cinq Sou Dor" jockey="M Delage" odds="/" />
+<gbRunner id="530253231" runner="2" name="Asdesmar" jockey="A Ruiz Gonzalez" odds="/" />
+<gbRunner id="530253232" runner="3" name="Niquos" jockey="F Giles" odds="/" />
+<gbRunner id="530253233" runner="4" name="Coeur Dartichaut" jockey="A Poirier" odds="/" />
+<gbRunner id="530253234" runner="5" name="Attawo" jockey="K Nabet" odds="/" />
+<gbRunner id="530253235" runner="6" name="Namali" jockey="J Da Silva" odds="/" />
+<gbRunner id="530253236" runner="7" name="Le Lescarien" jockey="W Denuault" odds="/" />
+<gbRunner id="530253237" runner="8" name="Principe De Vega" jockey="N Desoutter" odds="/" />
+<gbRunner id="530253238" runner="9" name="Complicated" jockey="T Beaurain" odds="/" />
+<gbRunner id="530253239" runner="10" name="La Foret" jockey="D Mescam" odds="/" />
+<gbRunner id="530253240" runner="11" name="Carisandre" jockey="M Delmares" odds="/" />
+<gbRunner id="530253241" runner="12" name="Menthe Poivree" jockey="A Chitray" odds="/" />
+</gbEvent>
+<gbEvent meeting="BANGALORE" name="10:45 STAKES 5f 212y" id="11804587" distance="" cstime="10:45" date="2017-02-03" time="10:45">
+<gbRunner id="530222453" runner="1" name="Constantine" jockey="K G Steyn" odds="/" />
+<gbRunner id="530222454" runner="2" name="Havelock Prince" jockey="Neeraj Rawal" odds="/" />
+<gbRunner id="530222455" runner="3" name="Mickey Mouse" jockey="Imran Chisty" odds="/" />
+<gbRunner id="530222456" runner="4" name="New Prince" jockey="Suraj Narredu" odds="/" />
+<gbRunner id="530222457" runner="5" name="Shivalik Star" jockey="S John" odds="/" />
+<gbRunner id="530222458" runner="6" name="Smile Stone" jockey="Y S Srinath" odds="/" />
+<gbRunner id="530222459" runner="7" name="Solomon" jockey="Yash Narredu" odds="/" />
+<gbRunner id="530222460" runner="8" name="Dubai One" jockey="A Imran Khan" odds="/" />
+<gbRunner id="530222461" runner="9" name="Satellite" jockey="P Trevor" odds="/" />
+<gbRunner id="530222462" runner="10" name="Arvak" jockey="P P Dhebe" odds="/" />
+<gbRunner id="530222463" runner="11" name="Fabulous Touch" jockey="P S Chouhan" odds="/" />
+</gbEvent>
+<gbEvent meeting="BANGALORE" name="11:15 HANDICAP 6f 211y" id="11804588" distance="" cstime="11:15" date="2017-02-03" time="11:15">
+<gbRunner id="530222466" runner="1" name="Honour" jockey="P Trevor" odds="/" />
+<gbRunner id="530222467" runner="2" name="Native Elements" jockey="Suraj Narredu" odds="/" />
+<gbRunner id="530222468" runner="3" name="Shining Magic" jockey="K Mukesh Kumar" odds="/" />
+<gbRunner id="530222469" runner="4" name="Amazing Redd" jockey="P P Dhebe" odds="/" />
+<gbRunner id="530222470" runner="5" name="Iceglow" jockey="D Allan" odds="/" />
+<gbRunner id="530222471" runner="6" name="Royal Rein" jockey="M Prabhakaran" odds="/" />
+<gbRunner id="530222472" runner="7" name="War Envoy" jockey="Y S Srinath" odds="/" />
+<gbRunner id="530222473" runner="8" name="Ive Got Clout" jockey="S John" odds="/" />
+<gbRunner id="530222474" runner="9" name="Colossal Moments" jockey="Janardhan Paswan" odds="/" />
+<gbRunner id="530222475" runner="10" name="Hidden Soldier" jockey="R Praveen Shinde" odds="/" />
+<gbRunner id="530222476" runner="11" name="African Emperor" jockey="Ryan Marshall" odds="/" />
+<gbRunner id="530222477" runner="12" name="Blue Blazer" jockey="R Girish" odds="/" />
+</gbEvent>
+<gbEvent meeting="BANGALORE" name="11:45 HANDICAP 5f 212y" id="11804589" distance="" cstime="11:45" date="2017-02-03" time="11:45">
+<gbRunner id="530222480" runner="1" name="Iron Man" jockey="A Ramu" odds="/" />
+<gbRunner id="530222481" runner="2" name="Stella Mari" jockey="Naveen M" odds="/" />
+<gbRunner id="530222482" runner="3" name="Final Destiny" jockey="Prashanth T M" odds="/" />
+<gbRunner id="530222483" runner="4" name="Vision Of The Sky" jockey="R Rayan Ahmed" odds="/" />
+<gbRunner id="530222484" runner="5" name="Arabian Promise" jockey="R Praveen Shinde" odds="/" />
+<gbRunner id="530222485" runner="6" name="Blessed One" jockey="V R Jagadeesh" odds="/" />
+<gbRunner id="530222486" runner="7" name="Peppa" jockey="Manish R" odds="/" />
+<gbRunner id="530222487" runner="8" name="Divino" jockey="Yash Narredu" odds="/" />
+<gbRunner id="530222488" runner="9" name="Sponge Bob" jockey="Anjar Alam" odds="/" />
+<gbRunner id="530222489" runner="10" name="Princess Holly" jockey="Sahanawaz" odds="/" />
+<gbRunner id="530222490" runner="11" name="Spectre" jockey="G Adarsh" odds="/" />
+<gbRunner id="530222491" runner="12" name="Hit Again" jockey="Tauseef Ahmed" odds="/" />
+</gbEvent>
+<gbEvent meeting="BANGALORE" name="12:15 HANDICAP 6f 211y" id="11804590" distance="" cstime="12:15" date="2017-02-03" time="12:15">
+<gbRunner id="530222494" runner="1" name="Freestyle" jockey="P Trevor" odds="/" />
+<gbRunner id="530222495" runner="2" name="Blazing Faith" jockey="K Mukesh Kumar" odds="/" />
+<gbRunner id="530222496" runner="3" name="Hidden Deal" jockey="Suraj Narredu" odds="/" />
+<gbRunner id="530222497" runner="4" name="Summer Star" jockey="A Ramu" odds="/" />
+<gbRunner id="530222498" runner="5" name="Goat" jockey="A R Pradeep" odds="/" />
+<gbRunner id="530222499" runner="6" name="Golden Nimbus" jockey="P P Dhebe" odds="/" />
+<gbRunner id="530222500" runner="7" name="High Profile" jockey="A Imran Khan" odds="/" />
+<gbRunner id="530222501" runner="8" name="White Snowdrops" jockey="K Raja Rao" odds="/" />
+<gbRunner id="530222502" runner="9" name="Tree Lounge" jockey="Imran Chisty" odds="/" />
+<gbRunner id="530222503" runner="10" name="Emancipation" jockey="Md Hesnain" odds="/" />
+<gbRunner id="530222504" runner="11" name="Dancing Princess" jockey="P S Chouhan" odds="/" />
+<gbRunner id="530222505" runner="12" name="All By Myself" jockey="R Girish" odds="/" />
+</gbEvent>
+<gbEvent meeting="JEBEL ALI" name="10:45 HANDICAP 1m" id="11804991" distance="1m 0f" cstime="10:45" date="2017-02-03" time="10:45">
+<gbRunner id="530253481" runner="5" name="Tadarrok" jockey="P J Dobbs" odds="4/1" />
+<gbRunner id="530253484" runner="8" name="Qannaas" jockey="Jim Crowley" odds="9/2" />
+<gbRunner id="530253478" runner="2" name="Marxian" jockey="R Ffrench" odds="5/1" />
+<gbRunner id="530253485" runner="9" name="Ruoud" jockey="R Mullen" odds="6/1" />
+<gbRunner id="530253482" runner="6" name="Here Now" jockey="C D Hayes" odds="8/1" />
+<gbRunner id="530253479" runner="3" name="Faiz" jockey="A Fresu" odds="9/1" />
+<gbRunner id="530253488" runner="12" name="Lake Hawk" jockey="T P O'Shea" odds="10/1" />
+<gbRunner id="530253487" runner="11" name="Minors Cup" jockey="S Hitchcott" odds="12/1" />
+<gbRunner id="530253477" runner="1" name="Jintshi" jockey="P Cosgrave" odds="16/1" />
+<gbRunner id="530253486" runner="10" name="Sullivan Street" jockey="A de Vries" odds="20/1" />
+<gbRunner id="530253483" runner="7" name="Istinfaar" jockey="P Sirigu" odds="25/1" />
+<gbRunner id="530253489" runner="13" name="What Asham" jockey="G Mesetovic" odds="25/1" />
+<gbRunner id="530253480" runner="4" name="Lord Provost" jockey="Cameron Noble" odds="33/1" />
+</gbEvent>
+<gbEvent meeting="JEBEL ALI" name="11:15 HANDICAP 1m" id="11804993" distance="1m 0f" cstime="11:15" date="2017-02-03" time="11:15">
+<gbRunner id="530253500" runner="1" name="Bluff" jockey="C D Hayes" odds="7/4" />
+<gbRunner id="530253503" runner="4" name="Ostaad" jockey="Jim Crowley" odds="3/1" />
+<gbRunner id="530253501" runner="2" name="Kilt Rock" jockey="P J Dobbs" odds="7/2" />
+<gbRunner id="530253502" runner="3" name="Mushaakis" jockey="Dane O'Neill" odds="8/1" />
+<gbRunner id="530253505" runner="6" name="Long Water" jockey="R Ffrench" odds="10/1" />
+<gbRunner id="530253504" runner="5" name="Gobooll" jockey="Cameron Noble" odds="11/1" />
+</gbEvent>
+<gbEvent meeting="JEBEL ALI" name="11:45 MAIDEN STAKES 1m" id="11804995" distance="1m 0f" cstime="11:45" date="2017-02-03" time="11:45">
+<gbRunner id="530253527" runner="12" name="Igloo" jockey="P J Dobbs" odds="4/6" />
+<gbRunner id="530253516" runner="1" name="Crowded" jockey="A Fresu" odds="7/2" />
+<gbRunner id="530253524" runner="9" name="More To Come" jockey="S Hitchcott" odds="4/1" />
+<gbRunner id="530253530" runner="13" name="Nalout" jockey="R Mullen" odds="12/1" />
+<gbRunner id="530253521" runner="6" name="Jununee" jockey="P Cosgrave" odds="20/1" />
+<gbRunner id="530253522" runner="7" name="Light Brigade" jockey="C D Hayes" odds="20/1" />
+<gbRunner id="530253520" runner="5" name="Frock Coat" jockey="G Avranche" odds="40/1" />
+<gbRunner id="530253517" runner="2" name="Dubai Post" jockey="R Ffrench" odds="66/1" />
+<gbRunner id="530253518" runner="3" name="Dubawis Thunder" jockey="G Kocakaya" odds="66/1" />
+<gbRunner id="530253523" runner="8" name="Merlion" jockey="Daniel Muscutt" odds="100/1" />
+<gbRunner id="530253526" runner="11" name="Simply" jockey="B Reis" odds="100/1" />
+<gbRunner id="530253519" runner="4" name="Eaglecraft" jockey="Szczepan Mazur" odds="150/1" />
+<gbRunner id="530253525" runner="10" name="Murrayfield" jockey="Non-Runner" odds="NR" />
+</gbEvent>
+<gbEvent meeting="JEBEL ALI" name="12:15 HANDICAP 7f" id="11804997" distance="0m 7f" cstime="12:15" date="2017-02-03" time="12:15">
+<gbRunner id="530253542" runner="4" name="King Cole" jockey="P J Dobbs" odds="11/10" />
+<gbRunner id="530253541" runner="3" name="Kidd Malibu" jockey="Jim Crowley" odds="4/1" />
+<gbRunner id="530253540" runner="2" name="Jaaref" jockey="Dane O'Neill" odds="8/1" />
+<gbRunner id="530253544" runner="6" name="Desert Wings" jockey="R Mullen" odds="8/1" />
+<gbRunner id="530253548" runner="10" name="Heraldic" jockey="P Cosgrave" odds="10/1" />
+<gbRunner id="530253547" runner="9" name="Archaic" jockey="R Ffrench" odds="14/1" />
+<gbRunner id="530253543" runner="5" name="Almohtaseb" jockey="S Hitchcott" odds="16/1" />
+<gbRunner id="530253546" runner="8" name="Aleko" jockey="A Fresu" odds="16/1" />
+<gbRunner id="530253545" runner="7" name="Gavroche" jockey="Fernando Jara" odds="28/1" />
+<gbRunner id="530253539" runner="1" name="Hymenaios" jockey="B Reis" odds="66/1" />
+</gbEvent>
+<gbEvent meeting="JEBEL ALI" name="12:45 HANDICAP 6f" id="11804999" distance="0m 6f" cstime="12:45" date="2017-02-03" time="12:45">
+<gbRunner id="530253560" runner="2" name="Hyaline" jockey="I Koyuncu" odds="4/1" />
+<gbRunner id="530253561" runner="3" name="Najm Suhail" jockey="T P O'Shea" odds="5/1" />
+<gbRunner id="530253562" runner="4" name="New Signal" jockey="R Ffrench" odds="11/2" />
+<gbRunner id="530253567" runner="9" name="Outrank" jockey="P Cosgrave" odds="7/1" />
+<gbRunner id="530253568" runner="10" name="Pollination" jockey="A de Vries" odds="7/1" />
+<gbRunner id="530253569" runner="11" name="Initial" jockey="Fernando Jara" odds="9/1" />
+<gbRunner id="530253564" runner="6" name="Journalistic" jockey="X Ziani" odds="11/1" />
+<gbRunner id="530253565" runner="7" name="Logistics" jockey="George Buckell" odds="14/1" />
+<gbRunner id="530253559" runner="1" name="Galesburg" jockey="R Mullen" odds="20/1" />
+<gbRunner id="530253571" runner="13" name="Intermedium" jockey="P Sirigu" odds="20/1" />
+<gbRunner id="530253570" runner="12" name="Brazen" jockey="G Avranche" odds="25/1" />
+<gbRunner id="530253574" runner="15" name="Ramonti Flash" jockey="C D Hayes" odds="33/1" />
+<gbRunner id="530253563" runner="5" name="Pink Angel" jockey="B Reis" odds="50/1" />
+<gbRunner id="530253573" runner="14" name="Marhi" jockey="Szczepan Mazur" odds="50/1" />
+<gbRunner id="530253566" runner="8" name="Mazeydd" jockey="G Kocakaya" odds="100/1" />
+</gbEvent>
+<gbEvent meeting="AQUEDUCT" name="17:50 EVENT 6f" id="11804836" distance="" cstime="17:50" date="2017-02-03" time="17:50">
+<gbRunner id="530247427" runner="1" name="Special Risk" jockey="Irad Ortiz Jr" odds="/" />
+<gbRunner id="530247428" runner="2" name="Bank On The Lake" jockey="Luis Reyes" odds="/" />
+<gbRunner id="530247429" runner="3" name="Courtmewithcarats" jockey="Kendrick Carmouche" odds="/" />
+<gbRunner id="530247430" runner="4" name="Jax" jockey="C H Velasquez" odds="/" />
+<gbRunner id="530247431" runner="5" name="Bear She Goes" jockey="Antonio Gallardo" odds="/" />
+</gbEvent>
+<gbEvent meeting="AQUEDUCT" name="18:20 EVENT 1m 70y" id="11804837" distance="" cstime="18:20" date="2017-02-03" time="18:20">
+<gbRunner id="530247434" runner="1" name="Onecats Chance" jockey="Emmanuel Esquivel" odds="/" />
+<gbRunner id="530247435" runner="2" name="Bustin The Bank" jockey="Michael Luzzi" odds="/" />
+<gbRunner id="530247436" runner="3" name="Taoiseach" jockey="Dylan Davis" odds="/" />
+<gbRunner id="530247437" runner="4" name="Frisky Warrior" jockey="Rosario Montanez" odds="/" />
+<gbRunner id="530247438" runner="5" name="Back Scatter" jockey="Rajiv Maragh" odds="/" />
+<gbRunner id="530247439" runner="6" name="Bullheaded Boy" jockey="Angel Arroyo" odds="/" />
+<gbRunner id="530247440" runner="7" name="One Sided" jockey="Antonio Gallardo" odds="/" />
+</gbEvent>
+<gbEvent meeting="AQUEDUCT" name="18:50 EVENT 6f" id="11804838" distance="" cstime="18:50" date="2017-02-03" time="18:50">
+<gbRunner id="530247443" runner="1" name="Spectacular Flash" jockey="Kendrick Carmouche" odds="/" />
+<gbRunner id="530247444" runner="2" name="Is She Hot" jockey="Rayan Gazader" odds="/" />
+<gbRunner id="530247445" runner="3" name="Aix En Provence" jockey="Angel Arroyo" odds="/" />
+<gbRunner id="530247446" runner="4" name="Northern Screamer" jockey="Hector Jr Diaz" odds="/" />
+<gbRunner id="530247447" runner="5" name="Midnight Bounty" jockey="Manuel Franco" odds="/" />
+<gbRunner id="530247448" runner="6" name="Dreamboat Annie" jockey="Michael Luzzi" odds="/" />
+<gbRunner id="530247449" runner="7" name="Roman Reign" jockey="Dylan Davis" odds="/" />
+</gbEvent>
+<gbEvent meeting="AQUEDUCT" name="19:20 EVENT 5f 110y" id="11804839" distance="" cstime="19:20" date="2017-02-03" time="19:20">
+<gbRunner id="530247452" runner="1" name="Carolina Courage" jockey="Manuel Franco" odds="/" />
+<gbRunner id="530247453" runner="2" name="New York Bourbon" jockey="Pablo Fragoso" odds="/" />
+<gbRunner id="530247454" runner="3" name="Fair Regis" jockey="Antonio Gallardo" odds="/" />
+<gbRunner id="530247455" runner="4" name="Bustin Gold" jockey="Rosario Montanez" odds="/" />
+<gbRunner id="530247456" runner="5" name="J. R.s Good Girl" jockey="Addiel Ayala" odds="/" />
+<gbRunner id="530247457" runner="6" name="Miss Meadowbrook" jockey="Kevin Mendez" odds="/" />
+<gbRunner id="530247458" runner="7" name="Groton St Scout" jockey="Oscar Gomez" odds="/" />
+<gbRunner id="530247459" runner="8" name="Prima Estrella" jockey="Samuel Jr Camacho" odds="/" />
+<gbRunner id="530247460" runner="9" name="Hypnotica" jockey="Michael Luzzi" odds="/" />
+<gbRunner id="530247461" runner="10" name="Shining With Luck" jockey="Rayan Gazader" odds="/" />
+<gbRunner id="530247462" runner="11" name="Miss Emilys Smile" jockey="Jeremias Flores" odds="/" />
+</gbEvent>
+<gbEvent meeting="AQUEDUCT" name="19:50 EVENT 6f" id="11804840" distance="" cstime="19:50" date="2017-02-03" time="19:50">
+<gbRunner id="530247465" runner="1" name="Summer Of Joy" jockey="Irad Ortiz Jr" odds="/" />
+<gbRunner id="530247466" runner="2" name="Stormy Princess" jockey="Rajiv Maragh" odds="/" />
+<gbRunner id="530247467" runner="3" name="Messer Misfit" jockey="Rayan Gazader" odds="/" />
+<gbRunner id="530247468" runner="4" name="Rosa Dorata" jockey="Kendrick Carmouche" odds="/" />
+<gbRunner id="530247469" runner="5" name="Christening" jockey="Jacqueline Davis" odds="/" />
+<gbRunner id="530247470" runner="6" name="Gonna Be Morgan" jockey="Angel Arroyo" odds="/" />
+<gbRunner id="530247471" runner="7" name="Haveaniceweekend" jockey="Antonio Gallardo" odds="/" />
+</gbEvent>
+<gbEvent meeting="AQUEDUCT" name="20:20 EVENT 1m 70y" id="11804841" distance="" cstime="20:20" date="2017-02-03" time="20:20">
+<gbRunner id="530247474" runner="1" name="Rudinas Kiss" jockey="Oscar Gomez" odds="/" />
+<gbRunner id="530247475" runner="2" name="Crawfish Shorts" jockey="Angel Arroyo" odds="/" />
+<gbRunner id="530247476" runner="3" name="Save The Tigers" jockey="Rosario Montanez" odds="/" />
+<gbRunner id="530247477" runner="4" name="It Must Be Nice" jockey="Antonio Gallardo" odds="/" />
+<gbRunner id="530247478" runner="5" name="Flux Capacitor" jockey="C H Velasquez" odds="/" />
+<gbRunner id="530247479" runner="6" name="Dublin My Money" jockey="Manuel Franco" odds="/" />
+<gbRunner id="530247480" runner="7" name="Big Cat" jockey="Hector Jr Diaz" odds="/" />
+<gbRunner id="530247481" runner="8" name="Discreet Encounter" jockey="Irad Ortiz Jr" odds="/" />
+<gbRunner id="530247482" runner="9" name="Awesome Anthony" jockey="Kendrick Carmouche" odds="/" />
+<gbRunner id="530247483" runner="10" name="Troubled Lover" jockey="Eric Cancel" odds="/" />
+<gbRunner id="530247484" runner="11" name="Giant Five Ways" jockey="Samuel Jr Camacho" odds="/" />
+<gbRunner id="530247485" runner="12" name="Dublin Express" jockey="Dalton Brown" odds="/" />
+<gbRunner id="530247486" runner="13" name="Callant" jockey="Michael Luzzi" odds="/" />
+</gbEvent>
+<gbEvent meeting="AQUEDUCT" name="20:50 EVENT 6f" id="11804842" distance="" cstime="20:50" date="2017-02-03" time="20:50">
+<gbRunner id="530247489" runner="1" name="Little Miss Julia" jockey="Addiel Ayala" odds="/" />
+<gbRunner id="530247490" runner="2" name="Madison Blues" jockey="C H Velasquez" odds="/" />
+<gbRunner id="530247491" runner="3" name="Show Giant" jockey="Trevor Simpson" odds="/" />
+<gbRunner id="530247492" runner="4" name="Glare Ice" jockey="Dylan Davis" odds="/" />
+<gbRunner id="530247493" runner="5" name="Brooklyn Gal" jockey="Charles Lopez" odds="/" />
+<gbRunner id="530247494" runner="6" name="Over My Head" jockey="Rayan Gazader" odds="/" />
+<gbRunner id="530247495" runner="7" name="Foxy Posse" jockey="Kendrick Carmouche" odds="/" />
+<gbRunner id="530247496" runner="8" name="Rahys Bandit" jockey="Jacqueline Davis" odds="/" />
+<gbRunner id="530247497" runner="9" name="Phocea" jockey="Rosario Montanez" odds="/" />
+</gbEvent>
+<gbEvent meeting="AQUEDUCT" name="21:20 EVENT 1m 70y" id="11804843" distance="" cstime="21:20" date="2017-02-03" time="21:20">
+<gbRunner id="530247500" runner="1" name="Brimstone" jockey="Antonio Gallardo" odds="/" />
+<gbRunner id="530247501" runner="2" name="Cause Im Alex" jockey="Angel Arroyo" odds="/" />
+<gbRunner id="530247502" runner="3" name="Cards Of Stone" jockey="Kendrick Carmouche" odds="/" />
+<gbRunner id="530247503" runner="4" name="Beckers Galaxy" jockey="Irad Ortiz Jr" odds="/" />
+<gbRunner id="530247504" runner="5" name="Chilly Bon Bon" jockey="C H Velasquez" odds="/" />
+<gbRunner id="530247505" runner="6" name="Vincento" jockey="Manuel Franco" odds="/" />
+<gbRunner id="530247506" runner="7" name="Ryder Road" jockey="Aaron Gryder" odds="/" />
+</gbEvent>
+<gbEvent meeting="AQUEDUCT" name="21:50 EVENT 5f 110y" id="11804844" distance="" cstime="21:50" date="2017-02-03" time="21:50">
+<gbRunner id="530247509" runner="1" name="New York Event" jockey="Hector Jr Diaz" odds="/" />
+<gbRunner id="530247510" runner="2" name="Negev" jockey="Irad Ortiz Jr" odds="/" />
+<gbRunner id="530247511" runner="3" name="Anna Theresa" jockey="Jacqueline Davis" odds="/" />
+<gbRunner id="530247512" runner="4" name="Claudias Vision" jockey="Rayan Gazader" odds="/" />
+<gbRunner id="530247513" runner="5" name="Ava Rae" jockey="Eric Cancel" odds="/" />
+<gbRunner id="530247514" runner="6" name="Dons Big Apple" jockey="Dylan Davis" odds="/" />
+<gbRunner id="530247515" runner="7" name="Rare Rose" jockey="Rajiv Maragh" odds="/" />
+<gbRunner id="530247516" runner="8" name="Quincy Girl" jockey="Luis Reyes" odds="/" />
+<gbRunner id="530247517" runner="9" name="Sassy Affair" jockey="Kendrick Carmouche" odds="/" />
+<gbRunner id="530247518" runner="10" name="City Trapper" jockey="Trevor Simpson" odds="/" />
+<gbRunner id="530247519" runner="11" name="Robins Destiny" jockey="Manuel Franco" odds="/" />
+</gbEvent>
+<gbEvent meeting="KRANJI" name="10:50 MAIDEN 5f 103yds" id="11804913" distance="" cstime="10:50" date="2017-02-03" time="10:50">
+<gbRunner id="530252616" runner="1" name="My Horse" jockey="O Placais" odds="/" />
+<gbRunner id="530252617" runner="2" name="Pomp" jockey="R Woodworth" odds="/" />
+<gbRunner id="530252618" runner="3" name="Decreto" jockey="I Azhar" odds="/" />
+<gbRunner id="530252619" runner="4" name="Good Justice" jockey="O Chavez" odds="/" />
+<gbRunner id="530252620" runner="5" name="Khudawand" jockey="V Duric" odds="/" />
+<gbRunner id="530252621" runner="6" name="Lims Royal" jockey="D Beasley" odds="/" />
+<gbRunner id="530252622" runner="7" name="Super Genius" jockey="J Powell" odds="/" />
+<gbRunner id="530252623" runner="8" name="Golden Spark" jockey="A Munro" odds="/" />
+<gbRunner id="530252624" runner="9" name="Matsuribayashi" jockey="M Zaki" odds="/" />
+</gbEvent>
+<gbEvent meeting="KRANJI" name="11:20 HANDICAP 6f 211yds" id="11804914" distance="" cstime="11:20" date="2017-02-03" time="11:20">
+<gbRunner id="530252627" runner="1" name="First Precinct" jockey="G Boss" odds="/" />
+<gbRunner id="530252628" runner="2" name="Damon" jockey="D Beasley" odds="/" />
+<gbRunner id="530252629" runner="3" name="Rock Eagle" jockey="K A'isisuhairi" odds="/" />
+<gbRunner id="530252630" runner="4" name="Gold Crown" jockey="M Rodd" odds="/" />
+<gbRunner id="530252631" runner="5" name="Sun Thunder" jockey="Cc Wong" odds="/" />
+<gbRunner id="530252632" runner="6" name="Golden Peninsula" jockey="V Duric" odds="/" />
+<gbRunner id="530252633" runner="7" name="Proud Pinoy" jockey="G Mosse" odds="/" />
+<gbRunner id="530252634" runner="8" name="Giorgio" jockey="S Shafrizal" odds="/" />
+<gbRunner id="530252635" runner="9" name="The Dodger" jockey="I Amirul" odds="/" />
+<gbRunner id="530252636" runner="10" name="Heavenly Hand" jockey="A Munro" odds="/" />
+<gbRunner id="530252637" runner="11" name="Holy Thomas" jockey="I Azhar" odds="/" />
+</gbEvent>
+<gbEvent meeting="KRANJI" name="11:50 HANDICAP 7f 210yds" id="11804915" distance="" cstime="11:50" date="2017-02-03" time="11:50">
+<gbRunner id="530252640" runner="1" name="Racing Talent" jockey="G Boss" odds="/" />
+<gbRunner id="530252641" runner="2" name="Percius" jockey="M Rodd" odds="/" />
+<gbRunner id="530252642" runner="3" name="Brahms And Liszt" jockey="R Zawari" odds="/" />
+<gbRunner id="530252643" runner="4" name="Dayuan" jockey="S Shafrizal" odds="/" />
+<gbRunner id="530252644" runner="5" name="Tiger Bay" jockey="I Amirul" odds="/" />
+<gbRunner id="530252645" runner="6" name="Amistad" jockey="M Ewe" odds="/" />
+<gbRunner id="530252646" runner="7" name="Bohemian" jockey="A Munro" odds="/" />
+<gbRunner id="530252647" runner="8" name="Shuying Xiaoxiao" jockey="K A'isisuhairi" odds="/" />
+<gbRunner id="530252648" runner="9" name="Sun Dance" jockey="Cc Wong" odds="/" />
+<gbRunner id="530252649" runner="10" name="Manmadhan" jockey="V Duric" odds="/" />
+<gbRunner id="530252650" runner="11" name="Destiny Knight" jockey="M Nunes" odds="/" />
+<gbRunner id="530252651" runner="12" name="Zahir" jockey="B Vorster" odds="/" />
+<gbRunner id="530252652" runner="13" name="Silent Power" jockey="Non-Runner" odds="NR" />
+</gbEvent>
+<gbEvent meeting="KRANJI" name="12:20 HANDICAP 1m 99yds" id="11804916" distance="" cstime="12:20" date="2017-02-03" time="12:20">
+<gbRunner id="530252655" runner="1" name="Castor" jockey="T See" odds="/" />
+<gbRunner id="530252656" runner="2" name="Squire Osbaldeston" jockey="V Duric" odds="/" />
+<gbRunner id="530252657" runner="3" name="Casing Royal" jockey="A Munro" odds="/" />
+<gbRunner id="530252658" runner="4" name="Robin Hood" jockey="O Placais" odds="/" />
+<gbRunner id="530252660" runner="6" name="Terms Of Reference" jockey="B Vorster" odds="/" />
+<gbRunner id="530252659" runner="5" name="Zeus" jockey="Non-Runner" odds="NR" />
+<gbRunner id="530252661" runner="7" name="Billy Britain" jockey="Non-Runner" odds="NR" />
+<gbRunner id="530252662" runner="8" name="Golden Diamond" jockey="Non-Runner" odds="NR" />
+</gbEvent>
+<gbEvent meeting="KRANJI" name="12:50 HANDICAP 6f 211yds" id="11804917" distance="" cstime="12:50" date="2017-02-03" time="12:50">
+<gbRunner id="530252665" runner="1" name="Hakamgong" jockey="R Woodworth" odds="/" />
+<gbRunner id="530252666" runner="2" name="Natural Nice" jockey="J Powell" odds="/" />
+<gbRunner id="530252667" runner="3" name="Mr No Problem" jockey="K A'isisuhairi" odds="/" />
+<gbRunner id="530252668" runner="4" name="Sing Express" jockey="O Placais" odds="/" />
+<gbRunner id="530252669" runner="5" name="Rainbow Warrior" jockey="Ck Ng" odds="/" />
+<gbRunner id="530252670" runner="6" name="Aureus" jockey="M Nunes" odds="/" />
+<gbRunner id="530252671" runner="7" name="Good Lucky" jockey="S John" odds="/" />
+<gbRunner id="530252672" runner="8" name="Spur Me On" jockey="B Vorster" odds="/" />
+<gbRunner id="530252673" runner="9" name="Evertrust" jockey="Cc Wong" odds="/" />
+<gbRunner id="530252676" runner="12" name="Brownes Anatomy" jockey="D David" odds="/" />
+<gbRunner id="530252674" runner="10" name="Lucky Come" jockey="Non-Runner" odds="NR" />
+<gbRunner id="530252675" runner="11" name="Aladdin" jockey="Non-Runner" odds="NR" />
+</gbEvent>
+<gbEvent meeting="KRANJI" name="13:20 HANDICAP 6f 211yds" id="11804918" distance="" cstime="13:20" date="2017-02-03" time="13:20">
+<gbRunner id="530252679" runner="1" name="Imperial March" jockey="B Vorster" odds="/" />
+<gbRunner id="530252680" runner="2" name="Silent Arrow" jockey="S John" odds="/" />
+<gbRunner id="530252681" runner="3" name="Sun Empire" jockey="Cc Wong" odds="/" />
+<gbRunner id="530252683" runner="5" name="Laughing Buffalo" jockey="M Rodd" odds="/" />
+<gbRunner id="530252684" runner="6" name="Really Capable" jockey="V Duric" odds="/" />
+<gbRunner id="530252685" runner="7" name="Mettlesome" jockey="S Shafrizal" odds="/" />
+<gbRunner id="530252686" runner="8" name="Joyous" jockey="H Syafiq" odds="/" />
+<gbRunner id="530252687" runner="9" name="Queens Seven" jockey="D David" odds="/" />
+<gbRunner id="530252688" runner="10" name="Allez" jockey="M Nunes" odds="/" />
+<gbRunner id="530252689" runner="11" name="Red Rackham" jockey="S Sam" odds="/" />
+<gbRunner id="530252682" runner="4" name="Ancient Warrior" jockey="Non-Runner" odds="NR" />
+</gbEvent>
+<gbEvent meeting="KRANJI" name="13:50 HANDICAP 7f 210yds" id="11804919" distance="" cstime="13:50" date="2017-02-03" time="13:50">
+<gbRunner id="530252693" runner="1" name="Smart Vintage" jockey="M Rodd" odds="/" />
+<gbRunner id="530252696" runner="2" name="Storm Trooper" jockey="Z Syed" odds="/" />
+<gbRunner id="530252698" runner="3" name="Mighty Kenny" jockey="B Vorster" odds="/" />
+<gbRunner id="530252700" runner="4" name="Classified" jockey="V Duric" odds="/" />
+<gbRunner id="530252702" runner="5" name="Turquoise King" jockey="M Nunes" odds="/" />
+<gbRunner id="530252704" runner="6" name="Johnny Kongos" jockey="A Munro" odds="/" />
+<gbRunner id="530252706" runner="7" name="Mongolian Chief" jockey="G Boss" odds="/" />
+<gbRunner id="530252707" runner="8" name="Nova Spirit" jockey="O Placais" odds="/" />
+<gbRunner id="530252708" runner="9" name="Oreilly Bay" jockey="M Kellady" odds="/" />
+<gbRunner id="530252709" runner="10" name="Big Banker" jockey="M Zaki" odds="/" />
+<gbRunner id="530252710" runner="11" name="Dragon G" jockey="N Nurshahril" odds="/" />
+<gbRunner id="530252711" runner="12" name="Cordoba" jockey="S Anandan" odds="/" />
+</gbEvent>
+<gbEvent meeting="KRANJI" name="14:20 HANDICAP 4f 214yds" id="11804922" distance="" cstime="14:20" date="2017-02-03" time="14:20">
+<gbRunner id="530252716" runner="1" name="Jelly Bean" jockey="J Powell" odds="/" />
+<gbRunner id="530252718" runner="2" name="Anonymous" jockey="S John" odds="/" />
+<gbRunner id="530252720" runner="3" name="Eatons Gold" jockey="R Zawari" odds="/" />
+<gbRunner id="530252721" runner="4" name="Maidanz Beauty" jockey="V Duric" odds="/" />
+<gbRunner id="530252723" runner="5" name="Mighty Conqueror" jockey="I Azhar" odds="/" />
+<gbRunner id="530252725" runner="6" name="Roselli" jockey="M Rodd" odds="/" />
+<gbRunner id="530252727" runner="7" name="Senator" jockey="M Nunes" odds="/" />
+<gbRunner id="530252729" runner="8" name="Caorunn" jockey="M Kellady" odds="/" />
+<gbRunner id="530252730" runner="9" name="Power Lin" jockey="O Placais" odds="/" />
+<gbRunner id="530252731" runner="10" name="Reach For The Sun" jockey="Cc Wong" odds="/" />
+<gbRunner id="530252732" runner="11" name="Winning Man" jockey="K A'isisuhairi" odds="/" />
+<gbRunner id="530252733" runner="12" name="Supersonicsurprise" jockey="G Mosse" odds="/" />
+</gbEvent>
+<gbEvent meeting="TURFWAY PARK" name="23:15 EVENT 6f 110y" id="11804802" distance="" cstime="23:15" date="2017-02-03" time="23:15">
+<gbRunner id="530246989" runner="1" name="Youngs Mill" jockey="Julie Burke" odds="/" />
+<gbRunner id="530246990" runner="2" name="War Venture" jockey="Alberto Pusac" odds="/" />
+<gbRunner id="530246991" runner="3" name="Cliffs Notes" jockey="Alonso Quinonez" odds="/" />
+<gbRunner id="530246992" runner="4" name="Big Coulee" jockey="Rodney Prescott" odds="/" />
+<gbRunner id="530246993" runner="5" name="Sacred Promise" jockey="Alejandro Contreras" odds="/" />
+<gbRunner id="530246994" runner="6" name="Aggro Crag" jockey="Jack Gilligan" odds="/" />
+</gbEvent>
+<gbEvent meeting="TURFWAY PARK" name="23:44 EVENT 1m" id="11804803" distance="" cstime="23:44" date="2017-02-03" time="23:44">
+<gbRunner id="530246997" runner="1" name="Mystic Tiger" jockey="Abel Lezcano" odds="/" />
+<gbRunner id="530246998" runner="2" name="Fightmaster" jockey="Gabriel Lagunes" odds="/" />
+<gbRunner id="530246999" runner="3" name="Archiboldo" jockey="Alonso Quinonez" odds="/" />
+<gbRunner id="530247000" runner="4" name="Rakeitin" jockey="Perry Ouzts" odds="/" />
+<gbRunner id="530247001" runner="5" name="Ready By You" jockey="Jack Gilligan" odds="/" />
+<gbRunner id="530247002" runner="6" name="Rabanito" jockey="Rodney Prescott" odds="/" />
+<gbRunner id="530247003" runner="7" name="Dr. Philan" jockey="Eddie Zuniga" odds="/" />
+</gbEvent>
+<gbEvent meeting="TAMPA BAY" name="17:55 EVENT 5f 110y" id="11804853" distance="0m 5f" cstime="17:55" date="2017-02-03" time="17:55">
+<gbRunner id="530247616" runner="1" name="Colored Stone" jockey="Willie Martinez" odds="/" />
+<gbRunner id="530247617" runner="2" name="Drop The Gloves" jockey="Dean Butler" odds="/" />
+<gbRunner id="530247618" runner="3" name="Doctor Lee" jockey="Gary Wales" odds="/" />
+<gbRunner id="530247619" runner="4" name="Resident" jockey="Daniel Centeno" odds="/" />
+<gbRunner id="530247620" runner="5" name="Gray Ransom" jockey="Huber Villa Gomez" odds="/" />
+<gbRunner id="530247621" runner="6" name="Cottle And Cuddle" jockey="Scott Spieth" odds="/" />
+<gbRunner id="530247622" runner="7" name="Knock Em Out Roy" jockey="Ademar Santos" odds="/" />
+</gbEvent>
+<gbEvent meeting="TAMPA BAY" name="18:25 EVENT 6f 110y" id="11804854" distance="0m 6f" cstime="18:25" date="2017-02-03" time="18:25">
+<gbRunner id="530247625" runner="1" name="Candrasa" jockey="Ronald Allen Jr" odds="/" />
+<gbRunner id="530247626" runner="2" name="Callie California" jockey="Samy Camacho" odds="/" />
+<gbRunner id="530247627" runner="3" name="Eternal Tempest" jockey="Pablo Morales" odds="/" />
+<gbRunner id="530247628" runner="4" name="Renees Cat" jockey="Mike Allen" odds="/" />
+<gbRunner id="530247629" runner="5" name="Blue Shine" jockey="Victor Lebron" odds="/" />
+<gbRunner id="530247630" runner="6" name="What About Tonight" jockey="Daniel Centeno" odds="/" />
+<gbRunner id="530247631" runner="7" name="Uniquelyclassic" jockey="Angel Cruz" odds="/" />
+</gbEvent>
+<gbEvent meeting="TAMPA BAY" name="18:55 EVENT 6f" id="11804855" distance="0m 6f" cstime="18:55" date="2017-02-03" time="18:55">
+<gbRunner id="530247634" runner="1" name="Mo Town Kat" jockey="Edwin Gonzalez" odds="/" />
+<gbRunner id="530247635" runner="2" name="Social Mobility" jockey="Luis Figueroa" odds="/" />
+<gbRunner id="530247636" runner="3" name="Quasante" jockey="Jesus Castanon" odds="/" />
+<gbRunner id="530247637" runner="4" name="Mi Tia Christina" jockey="Pablo Morales" odds="/" />
+<gbRunner id="530247638" runner="5" name="Iana" jockey="Samy Camacho" odds="/" />
+<gbRunner id="530247639" runner="6" name="Golden Justice" jockey="Fernando Cruz La De" odds="/" />
+<gbRunner id="530247640" runner="7" name="Shes Jiggy" jockey="Wilkin Ortiz" odds="/" />
+<gbRunner id="530247641" runner="8" name="Zoey D" jockey="Daniel Centeno" odds="/" />
+</gbEvent>
+<gbEvent meeting="TAMPA BAY" name="19:25 EVENT 5f 110y" id="11804856" distance="0m 5f" cstime="19:25" date="2017-02-03" time="19:25">
+<gbRunner id="530247644" runner="1" name="Cowboys Sweetheart" jockey="Samy Camacho" odds="/" />
+<gbRunner id="530247645" runner="2" name="Glimmer Of Light" jockey="Jose Ferrer" odds="/" />
+<gbRunner id="530247646" runner="3" name="Miss Absolute" jockey="Scott Spieth" odds="/" />
+<gbRunner id="530247647" runner="4" name="Asplashofanna" jockey="Edwin Gonzalez" odds="/" />
+<gbRunner id="530247648" runner="5" name="Ghost Lily" jockey="Gary Wales" odds="/" />
+<gbRunner id="530247649" runner="6" name="Bills Wealthygirl" jockey="Dean Butler" odds="/" />
+<gbRunner id="530247650" runner="7" name="My Secret Place" jockey="Francisco Maysonett" odds="/" />
+<gbRunner id="530247651" runner="8" name="Pride Leader" jockey="Orlando Bocachica" odds="/" />
+<gbRunner id="530247652" runner="9" name="Mini Channel" jockey="Jesus Castanon" odds="/" />
+<gbRunner id="530247653" runner="10" name="Pagan Joy" jockey="Carlos Lozada" odds="/" />
+</gbEvent>
+<gbEvent meeting="TAMPA BAY" name="19:55 EVENT 1m" id="11804857" distance="1m 0f" cstime="19:55" date="2017-02-03" time="19:55">
+<gbRunner id="530247656" runner="1" name="Racings My Game" jockey="Fernando Cruz La De" odds="/" />
+<gbRunner id="530247657" runner="2" name="Circle Away" jockey="Jose Garcia" odds="/" />
+<gbRunner id="530247658" runner="3" name="Speed Game" jockey="Ronald Allen Jr" odds="/" />
+<gbRunner id="530247659" runner="4" name="Abruzzis Star" jockey="Jesus Castanon" odds="/" />
+<gbRunner id="530247660" runner="5" name="Made To Fit" jockey="Willie Martinez" odds="/" />
+<gbRunner id="530247661" runner="6" name="Iggy Loco" jockey="Daniel Centeno" odds="/" />
+<gbRunner id="530247662" runner="7" name="Two Steps Before" jockey="Edwin Gonzalez" odds="/" />
+<gbRunner id="530247663" runner="8" name="Dizzy Gillespie" jockey="Wilmer Garcia" odds="/" />
+</gbEvent>
+<gbEvent meeting="TAMPA BAY" name="20:26 EVENT 6f" id="11804858" distance="0m 6f" cstime="20:26" date="2017-02-03" time="20:26">
+<gbRunner id="530247666" runner="1" name="Splash Rules" jockey="Daniel Centeno" odds="/" />
+<gbRunner id="530247667" runner="2" name="Midnight Punk" jockey="Pablo Morales" odds="/" />
+<gbRunner id="530247668" runner="3" name="Epic Journey" jockey="Leandro Goncalves" odds="/" />
+<gbRunner id="530247669" runner="4" name="Dog Soldier" jockey="Dean Butler" odds="/" />
+<gbRunner id="530247670" runner="5" name="Captain Genius" jockey="Gary Boulanger" odds="/" />
+<gbRunner id="530247671" runner="6" name="Rolin With Olin" jockey="Edwin Gonzalez" odds="/" />
+<gbRunner id="530247672" runner="7" name="Philm Noir" jockey="Willie Martinez" odds="/" />
+</gbEvent>
+<gbEvent meeting="TAMPA BAY" name="20:55 EVENT 1m" id="11804859" distance="1m 0f" cstime="20:55" date="2017-02-03" time="20:55">
+<gbRunner id="530247675" runner="1" name="Sara The Great" jockey="Samy Camacho" odds="/" />
+<gbRunner id="530247676" runner="2" name="Chica Bonita" jockey="Ademar Santos" odds="/" />
+<gbRunner id="530247677" runner="3" name="Jewelisa" jockey="Orlando Bocachica" odds="/" />
+<gbRunner id="530247678" runner="4" name="Brewmistress" jockey="Fernando Cruz La De" odds="/" />
+<gbRunner id="530247679" runner="5" name="Arabian Queen" jockey="Mike Allen" odds="/" />
+<gbRunner id="530247680" runner="6" name="Blakes Magic" jockey="Edwin Gonzalez" odds="/" />
+<gbRunner id="530247681" runner="7" name="Hazel W" jockey="Wilmer Garcia" odds="/" />
+<gbRunner id="530247682" runner="8" name="Be Nice Or Leave" jockey="Daniel Centeno" odds="/" />
+<gbRunner id="530247683" runner="9" name="Well Composed" jockey="Dean Butler" odds="/" />
+<gbRunner id="530247684" runner="10" name="Julesco" jockey="Pedro Jr Cotto" odds="/" />
+<gbRunner id="530247685" runner="11" name="Electro Peg" jockey="Edwin Gonzalez" odds="/" />
+<gbRunner id="530247686" runner="12" name="Chique To Chique" jockey="Wilmer Garcia" odds="/" />
+<gbRunner id="530247687" runner="13" name="Antia" jockey="Scott Spieth" odds="/" />
+<gbRunner id="530247688" runner="14" name="Right Or Wrong" jockey="Augusto Marin" odds="/" />
+</gbEvent>
+<gbEvent meeting="TAMPA BAY" name="21:25 EVENT 1m 40y" id="11804860" distance="" cstime="21:25" date="2017-02-03" time="21:25">
+<gbRunner id="530247691" runner="1" name="World Changer" jockey="Daniel Centeno" odds="/" />
+<gbRunner id="530247692" runner="2" name="Tiger D" jockey="Dean Butler" odds="/" />
+<gbRunner id="530247693" runner="3" name="Run Robby Run" jockey="Luis Figueroa" odds="/" />
+<gbRunner id="530247694" runner="4" name="China Prince" jockey="Jose Ferrer" odds="/" />
+<gbRunner id="530247695" runner="5" name="To The Stars" jockey="Pedro Jr Cotto" odds="/" />
+<gbRunner id="530247696" runner="6" name="Substraight" jockey="Samy Camacho" odds="/" />
+<gbRunner id="530247697" runner="7" name="Financial Freedom" jockey="Edwin Gonzalez" odds="/" />
+<gbRunner id="530247698" runner="8" name="Youre My Blue Sky" jockey="Ronald Allen Jr" odds="/" />
+<gbRunner id="530247699" runner="9" name="Supreme Justice" jockey="Ricardo Feliciano" odds="/" />
+<gbRunner id="530247700" runner="10" name="El Sombre" jockey="Mike Allen" odds="/" />
+<gbRunner id="530247701" runner="11" name="Yes Im Lucky" jockey="Ricardo Feliciano" odds="/" />
+<gbRunner id="530247702" runner="12" name="Island Dude" jockey="Ronald Allen Jr" odds="/" />
+<gbRunner id="530247703" runner="13" name="Bedouin Now" jockey="Victor Lebron" odds="/" />
+</gbEvent>
+<gbEvent meeting="TAMPA BAY" name="21:55 EVENT 1m" id="11804861" distance="" cstime="21:55" date="2017-02-03" time="21:55">
+<gbRunner id="530247706" runner="1" name="High Side" jockey="Daniel Centeno" odds="/" />
+<gbRunner id="530247707" runner="2" name="Crimson Hayes" jockey="Jose Ferrer" odds="/" />
+<gbRunner id="530247708" runner="3" name="Last Class To Go" jockey="Pablo Morales" odds="/" />
+<gbRunner id="530247709" runner="4" name="Step Two" jockey="Luis Figueroa" odds="/" />
+<gbRunner id="530247710" runner="5" name="Rapo" jockey="Edwin Gonzalez" odds="/" />
+<gbRunner id="530247711" runner="6" name="Sabbatarian" jockey="Orlando Bocachica" odds="/" />
+<gbRunner id="530247712" runner="7" name="Bos Bullet" jockey="Samy Camacho" odds="/" />
+<gbRunner id="530247713" runner="8" name="Midnight Trace" jockey="Victor Lebron" odds="/" />
+<gbRunner id="530247714" runner="9" name="Perfect Execution" jockey="Fernando Cruz La De" odds="/" />
+</gbEvent>
+<gbEvent meeting="SUNLAND PARK" name="19:45 EVENT 1f 80y" id="11804862" distance="0m 1f" cstime="19:45" date="2017-02-03" time="19:45">
+<gbRunner id="530247717" runner="1" name="Pass The Cold Corona" jockey="Esgar Ramirez" odds="/" />
+<gbRunner id="530247718" runner="2" name="Bronx Bombshell" jockey="Jose Enriquez" odds="/" />
+<gbRunner id="530247719" runner="3" name="Professor X" jockey="Mauro Salcedo" odds="/" />
+<gbRunner id="530247720" runner="4" name="Rc Sholo Uno" jockey="Jaime Leos" odds="/" />
+<gbRunner id="530247721" runner="5" name="First Week Miracle" jockey="Oscar Cordova" odds="/" />
+<gbRunner id="530247722" runner="6" name="Dd Miracle Mountain" jockey="Bonifacio Quiroz" odds="/" />
+<gbRunner id="530247723" runner="7" name="Gran Conquistador" jockey="Sergio Becerra Jr" odds="/" />
+<gbRunner id="530247724" runner="8" name="Wild About Josh" jockey="Miguel Perez" odds="/" />
+<gbRunner id="530247725" runner="9" name="Kicken Us" jockey="Ruben Calderon" odds="/" />
+<gbRunner id="530247726" runner="10" name="Decadent Kona Man" jockey="Jose Ruiz" odds="/" />
+<gbRunner id="530247727" runner="11" name="Rts Dragonfly" jockey="Oscar Hernandez" odds="/" />
+<gbRunner id="530247728" runner="12" name="Corona On A Stick" jockey="Daniel Amaya" odds="/" />
+</gbEvent>
+<gbEvent meeting="SUNLAND PARK" name="20:10 EVENT 1f 80y" id="11804863" distance="0m 1f" cstime="20:10" date="2017-02-03" time="20:10">
+<gbRunner id="530247731" runner="1" name="Regal First Moon" jockey="Mauro Salcedo" odds="/" />
+<gbRunner id="530247732" runner="2" name="First Note Medley" jockey="Jose Ortiz" odds="/" />
+<gbRunner id="530247733" runner="3" name="Jm Blu Moonflash" jockey="Esgar Ramirez" odds="/" />
+<gbRunner id="530247734" runner="4" name="Jess Bordeaux" jockey="Alfredo Sigala" odds="/" />
+<gbRunner id="530247735" runner="5" name="Blazin Version" jockey="Manuel Gutierrez" odds="/" />
+<gbRunner id="530247736" runner="6" name="Seis Menudos" jockey="Jose Enriquez" odds="/" />
+<gbRunner id="530247737" runner="7" name="Jess Rueben James" jockey="Jaime Leos" odds="/" />
+<gbRunner id="530247738" runner="8" name="Whatever Bill" jockey="Sergio Becerra Jr" odds="/" />
+<gbRunner id="530247739" runner="9" name="Hot Authorization" jockey="Adrian Ramos" odds="/" />
+</gbEvent>
+<gbEvent meeting="SUNLAND PARK" name="20:35 EVENT 1f 130y" id="11804864" distance="0m 1f" cstime="20:35" date="2017-02-03" time="20:35">
+<gbRunner id="530247742" runner="1" name="Painted Jess For Me" jockey="Bonifacio Quiroz" odds="/" />
+<gbRunner id="530247743" runner="2" name="Tempting Prize Rose" jockey="Jose Ortiz" odds="/" />
+<gbRunner id="530247744" runner="3" name="Chocolate Party" jockey="Alfredo Sigala" odds="/" />
+<gbRunner id="530247745" runner="4" name="Jeanne Silver Storm" jockey="Erick Lujan" odds="/" />
+<gbRunner id="530247746" runner="5" name="Miss Strong Safety B" jockey="Jose Enriquez" odds="/" />
+<gbRunner id="530247747" runner="6" name="Octavious Dash" jockey="Sergio Becerra Jr" odds="/" />
+<gbRunner id="530247748" runner="7" name="Maryland Magic" jockey="Manuel Gutierrez" odds="/" />
+<gbRunner id="530247749" runner="8" name="Eyesa Dashing Lady" jockey="Esgar Ramirez" odds="/" />
+<gbRunner id="530247750" runner="9" name="A Special Dynasty" jockey="Jaime Leos" odds="/" />
+<gbRunner id="530247751" runner="10" name="Just A Little Wagon" jockey="Adrian Ramos" odds="/" />
+<gbRunner id="530247752" runner="11" name="Bars N Cars" jockey="Esgar Ramirez" odds="/" />
+<gbRunner id="530247753" runner="12" name="Truley Striking" jockey="Adrian Ramos" odds="/" />
+</gbEvent>
+<gbEvent meeting="SUNLAND PARK" name="21:00 EVENT 1f 180y" id="11804865" distance="" cstime="21:00" date="2017-02-03" time="21:00">
+<gbRunner id="530247756" runner="1" name="Mischka James" jockey="Bonifacio Quiroz" odds="/" />
+<gbRunner id="530247757" runner="2" name="Three D Feature" jockey="Jose Ortiz" odds="/" />
+<gbRunner id="530247758" runner="3" name="Billy Big Rock" jockey="Jose Montoya" odds="/" />
+<gbRunner id="530247759" runner="4" name="Flyingforunclesam" jockey="Adrian Ramos" odds="/" />
+<gbRunner id="530247760" runner="5" name="Jm Country Man" jockey="Jose Enriquez" odds="/" />
+<gbRunner id="530247761" runner="6" name="Mojo Perry" jockey="Daniel Amaya" odds="/" />
+<gbRunner id="530247762" runner="7" name="Rcash Wagon" jockey="Raul Herrera" odds="/" />
+<gbRunner id="530247763" runner="8" name="West Texas Dynasty" jockey="Oscar Hernandez" odds="/" />
+<gbRunner id="530247764" runner="9" name="Zenefit" jockey="Mauro Salcedo" odds="/" />
+<gbRunner id="530247765" runner="10" name="Dashing Aylin" jockey="Jaime Leos" odds="/" />
+<gbRunner id="530247766" runner="11" name="Ranger The Stranger" jockey="L Martinez" odds="/" />
+<gbRunner id="530247767" runner="12" name="West Coast Offense B" jockey="Edwuin Lujan" odds="/" />
+</gbEvent>
+<gbEvent meeting="SUNLAND PARK" name="21:26 EVENT 1f 180y" id="11804866" distance="" cstime="21:26" date="2017-02-03" time="21:26">
+<gbRunner id="530247770" runner="1" name="Jm Carter" jockey="Marcos Soto" odds="/" />
+<gbRunner id="530247771" runner="2" name="Dash Back Jess" jockey="Albert Medrano" odds="/" />
+<gbRunner id="530247772" runner="3" name="Smartfone" jockey="Jose Enriquez" odds="/" />
+<gbRunner id="530247773" runner="4" name="Easy Anichini Dash" jockey="Raul Herrera" odds="/" />
+<gbRunner id="530247774" runner="5" name="Fire N Dice" jockey="Jose Ortiz" odds="/" />
+<gbRunner id="530247775" runner="6" name="Pampered Jess" jockey="Oscar Cordova" odds="/" />
+<gbRunner id="530247776" runner="7" name="Silk Stockings V" jockey="Sergio Rodriguez" odds="/" />
+<gbRunner id="530247777" runner="8" name="In The Air Tonight" jockey="Jaime Leos" odds="/" />
+<gbRunner id="530247778" runner="9" name="Lr Royal Flush" jockey="Adrian Ramos" odds="/" />
+<gbRunner id="530247779" runner="10" name="Perry Sweetheart" jockey="Esgar Ramirez" odds="/" />
+<gbRunner id="530247780" runner="11" name="Lovely Lily Rose" jockey="Oscar Cordova" odds="/" />
+<gbRunner id="530247781" runner="12" name="Pyc Laveaux" jockey="Daniel Amaya" odds="/" />
+</gbEvent>
+<gbEvent meeting="SUNLAND PARK" name="21:52 EVENT 1f 130y" id="11804868" distance="" cstime="21:52" date="2017-02-03" time="21:52">
+<gbRunner id="530247786" runner="1" name="Jm First Madam Moon" jockey="Esgar Ramirez" odds="/" />
+<gbRunner id="530247787" runner="2" name="Beerun" jockey="Adrian Ramos" odds="/" />
+<gbRunner id="530247788" runner="3" name="Gon In A Flash" jockey="Mauro Salcedo" odds="/" />
+<gbRunner id="530247789" runner="4" name="Sweet Splenda" jockey="Jose Enriquez" odds="/" />
+<gbRunner id="530247790" runner="5" name="Faster Version" jockey="Raul Herrera" odds="/" />
+<gbRunner id="530247791" runner="6" name="Eyesawagon" jockey="Jose Ortiz" odds="/" />
+<gbRunner id="530247792" runner="7" name="Jameson Jr" jockey="Manuel Gutierrez" odds="/" />
+<gbRunner id="530247793" runner="8" name="Ima Party Boy" jockey="Oscar Hernandez" odds="/" />
+<gbRunner id="530247794" runner="9" name="Straw Fly Flower" jockey="L Martinez" odds="/" />
+<gbRunner id="530247795" runner="10" name="Taco Bay" jockey="Daniel Amaya" odds="/" />
+<gbRunner id="530247796" runner="11" name="Jess A Satin Flash" jockey="Esgar Ramirez" odds="/" />
+<gbRunner id="530247797" runner="12" name="First Moon Fire" jockey="Jose Enriquez" odds="/" />
+</gbEvent>
+<gbEvent meeting="SUNLAND PARK" name="22:18 EVENT 2f" id="11804869" distance="" cstime="22:18" date="2017-02-03" time="22:18">
+<gbRunner id="530247800" runner="1" name="Ebw Catalyst" jockey="Larry Gamez" odds="/" />
+<gbRunner id="530247801" runner="2" name="Phoebesdynasty" jockey="Mauro Salcedo" odds="/" />
+<gbRunner id="530247802" runner="3" name="Witman" jockey="Jose Enriquez" odds="/" />
+<gbRunner id="530247803" runner="4" name="Parhelion" jockey="Manuel Gutierrez" odds="/" />
+<gbRunner id="530247804" runner="5" name="Magic Corona" jockey="Adrian Ramos" odds="/" />
+<gbRunner id="530247805" runner="6" name="Shadasha" jockey="Raul Herrera" odds="/" />
+<gbRunner id="530247806" runner="7" name="Hayjay" jockey="Sergio Becerra Jr" odds="/" />
+<gbRunner id="530247807" runner="8" name="Don Quixote" jockey="Esgar Ramirez" odds="/" />
+<gbRunner id="530247808" runner="9" name="Una Linda Corona" jockey="Daniel Amaya" odds="/" />
+<gbRunner id="530247809" runner="10" name="Gimmie A Reason" jockey="Jose Ortiz" odds="/" />
+<gbRunner id="530247810" runner="11" name="Corona Southerndream" jockey="Alejandro Medellin" odds="/" />
+<gbRunner id="530247811" runner="12" name="A Reckless Royal" jockey="Jaime Leos" odds="/" />
+</gbEvent>
+<gbEvent meeting="SUNLAND PARK" name="22:44 EVENT 1f 130y" id="11804870" distance="" cstime="22:44" date="2017-02-03" time="22:44">
+<gbRunner id="530247814" runner="1" name="Passemupjesse" jockey="Felipe Garcia Luna" odds="/" />
+<gbRunner id="530247815" runner="2" name="Docs First Fire" jockey="Raul Herrera" odds="/" />
+<gbRunner id="530247816" runner="3" name="Bachichanator" jockey="Juan Pulido" odds="/" />
+<gbRunner id="530247817" runner="4" name="Revvy" jockey="Jaime Leos" odds="/" />
+<gbRunner id="530247818" runner="5" name="Pickled On Corona" jockey="Edwuin Lujan" odds="/" />
+<gbRunner id="530247819" runner="6" name="A Spring Snow" jockey="Isaias Cardenas" odds="/" />
+<gbRunner id="530247820" runner="7" name="Stel Royal" jockey="Jose Enriquez" odds="/" />
+<gbRunner id="530247821" runner="8" name="Faith Mountain" jockey="Manuel Gutierrez" odds="/" />
+<gbRunner id="530247822" runner="9" name="Toodles Flies Free" jockey="Sergio Becerra Jr" odds="/" />
+<gbRunner id="530247823" runner="10" name="Pilota On Fire" jockey="Jose Ortiz" odds="/" />
+<gbRunner id="530247824" runner="11" name="Iris Dashing Royal" jockey="Jose Enriquez" odds="/" />
+<gbRunner id="530247825" runner="12" name="One Famous Swinger" jockey="Manuel Gutierrez" odds="/" />
+</gbEvent>
+<gbEvent meeting="SUNLAND PARK" name="23:10 EVENT 1f 180y" id="11804871" distance="" cstime="23:10" date="2017-02-03" time="23:10">
+<gbRunner id="530247828" runner="1" name="Sticky Red Cebolla" jockey="Jose Ruiz" odds="/" />
+<gbRunner id="530247829" runner="2" name="Shota Moonshine" jockey="Jose Ortiz" odds="/" />
+<gbRunner id="530247830" runner="3" name="April Dawn" jockey="Miguel Perez" odds="/" />
+<gbRunner id="530247831" runner="4" name="One Sweet Chick" jockey="Mauro Salcedo" odds="/" />
+<gbRunner id="530247832" runner="5" name="Tobique One" jockey="Jimmy Coates" odds="/" />
+<gbRunner id="530247833" runner="6" name="Sweet Streakin Jesse" jockey="Esgar Ramirez" odds="/" />
+<gbRunner id="530247834" runner="7" name="Sneakers Shack" jockey="Felipe Garcia Luna" odds="/" />
+<gbRunner id="530247835" runner="8" name="Fly Misty Moon" jockey="Bonifacio Quiroz" odds="/" />
+<gbRunner id="530247836" runner="9" name="Pauls Special Knight" jockey="Jaime Leos" odds="/" />
+<gbRunner id="530247837" runner="10" name="This Snow Is Genuine" jockey="Daniel Amaya" odds="/" />
+<gbRunner id="530247838" runner="11" name="My Jesse Blue" jockey="Jose Ortiz" odds="/" />
+<gbRunner id="530247839" runner="12" name="Cold Six" jockey="Mauro Salcedo" odds="/" />
+</gbEvent>
+<gbEvent meeting="CLUB HIPICO" name="17:30 HANDICAP 5f 103yds" id="11804924" distance="" cstime="17:30" date="2017-02-03" time="17:30">
+<gbRunner id="530252744" runner="1" name="Negro Bombita" jockey="W Quinteros" odds="/" />
+<gbRunner id="530252745" runner="2" name="Vodka Tonic" jockey="R Avila" odds="/" />
+<gbRunner id="530252746" runner="3" name="Bella Vuelta" jockey="R Solorza" odds="/" />
+<gbRunner id="530252747" runner="4" name="Siempre Gana" jockey="J Mino" odds="/" />
+<gbRunner id="530252748" runner="5" name="Del Jardin" jockey="J Paredes" odds="/" />
+<gbRunner id="530252749" runner="6" name="Rica La Tonta" jockey="M Azolas" odds="/" />
+<gbRunner id="530252750" runner="7" name="Brooklyn Bridge" jockey="J Villablanca" odds="/" />
+<gbRunner id="530252751" runner="8" name="Por Fin Llegaste" jockey="J Reyes" odds="/" />
+<gbRunner id="530252752" runner="9" name="Tata Torino" jockey="A Martinez" odds="/" />
+<gbRunner id="530252753" runner="10" name="Bay Harbour" jockey="J Flores" odds="/" />
+<gbRunner id="530252754" runner="11" name="Swanlake" jockey="G Inostroza" odds="/" />
+<gbRunner id="530252755" runner="12" name="Sweet Mam" jockey="B Orellana" odds="/" />
+<gbRunner id="530252756" runner="13" name="Soy Leyenda" jockey="M Morales" odds="/" />
+<gbRunner id="530252757" runner="14" name="Si Ahora" jockey="J Hernandez" odds="/" />
+<gbRunner id="530252758" runner="15" name="Porrazo" jockey="J Rodriguez" odds="/" />
+</gbEvent>
+<gbEvent meeting="CLUB HIPICO" name="17:56 STAKES 5f 103yds" id="11804926" distance="" cstime="17:56" date="2017-02-03" time="17:56">
+<gbRunner id="530252769" runner="1" name="El Regador" jockey="J Hernandez" odds="/" />
+<gbRunner id="530252770" runner="2" name="Padre Tierno" jockey="N Illesca" odds="/" />
+<gbRunner id="530252771" runner="3" name="Don Cesar" jockey="L Torres" odds="/" />
+<gbRunner id="530252772" runner="4" name="Gibran" jockey="J Paredes" odds="/" />
+<gbRunner id="530252773" runner="5" name="El Barbaro" jockey="J Villablanca" odds="/" />
+<gbRunner id="530252774" runner="6" name="No Nash" jockey="J Laprida" odds="/" />
+<gbRunner id="530252775" runner="7" name="Ashley Wilkes" jockey="R Fuenzalida" odds="/" />
+<gbRunner id="530252776" runner="8" name="Jack Daniels" jockey="J Rodriguez" odds="/" />
+<gbRunner id="530252777" runner="9" name="Nepromonte" jockey="R Avila" odds="/" />
+<gbRunner id="530252778" runner="10" name="Pure Dushy" jockey="J Flores" odds="/" />
+<gbRunner id="530252779" runner="11" name="Josue El Risueno" jockey="A Rivera" odds="/" />
+<gbRunner id="530252780" runner="12" name="Vitale" jockey="E Toledo" odds="/" />
+<gbRunner id="530252781" runner="13" name="Apolinaris" jockey="C Weilby" odds="/" />
+<gbRunner id="530252782" runner="14" name="Brutal Storm" jockey="J Gonzalez" odds="/" />
+</gbEvent>
+<gbEvent meeting="CLUB HIPICO" name="18:21 STAKES 5f 212yds" id="11804928" distance="" cstime="18:21" date="2017-02-03" time="18:21">
+<gbRunner id="530252793" runner="1" name="Silk Culture" jockey="V Miranda" odds="/" />
+<gbRunner id="530252794" runner="2" name="Wakiki" jockey="G Pontigo" odds="/" />
+<gbRunner id="530252795" runner="3" name="Brisa Ligera" jockey="L Gonzalez" odds="/" />
+<gbRunner id="530252796" runner="4" name="Polifema" jockey="J Castillo" odds="/" />
+<gbRunner id="530252797" runner="5" name="Quema Y Cuarenta" jockey="J Medina" odds="/" />
+<gbRunner id="530252798" runner="6" name="Maria Magic" jockey="R Cortes" odds="/" />
+<gbRunner id="530252799" runner="7" name="Egocentrica" jockey="R Fuenzalida" odds="/" />
+<gbRunner id="530252800" runner="8" name="Sobrina Alegre" jockey="F Olivares" odds="/" />
+<gbRunner id="530252801" runner="9" name="Temperance" jockey="C Jorquera" odds="/" />
+</gbEvent>
+<gbEvent meeting="CLUB HIPICO" name="18:45 STAKES 5f 103yds" id="11804930" distance="" cstime="18:45" date="2017-02-03" time="18:45">
+<gbRunner id="530252812" runner="1" name="Quimet" jockey="G Acevedo" odds="/" />
+<gbRunner id="530252813" runner="2" name="No More Port" jockey="H Barrera" odds="/" />
+<gbRunner id="530252814" runner="3" name="Clipperton" jockey="L Torres" odds="/" />
+<gbRunner id="530252815" runner="4" name="Entenao" jockey="H Berrios" odds="/" />
+<gbRunner id="530252816" runner="5" name="Last Romance" jockey="J Guajardo" odds="/" />
+</gbEvent>
+<gbEvent meeting="CLUB HIPICO" name="19:11 HANDICAP 5f 212yds" id="11804931" distance="" cstime="19:11" date="2017-02-03" time="19:11">
+<gbRunner id="530252819" runner="1" name="Al Fayed" jockey="L Gonzalez" odds="/" />
+<gbRunner id="530252820" runner="2" name="John Wayne" jockey="J Laprida" odds="/" />
+<gbRunner id="530252821" runner="3" name="Lito" jockey="J Guajardo" odds="/" />
+<gbRunner id="530252822" runner="4" name="Puqueldon" jockey="C Fuenzalida" odds="/" />
+<gbRunner id="530252823" runner="5" name="Seaboard" jockey="R Fuenzalida" odds="/" />
+<gbRunner id="530252824" runner="6" name="Winca" jockey="W Quinteros" odds="/" />
+<gbRunner id="530252825" runner="7" name="Small Bear" jockey="E Toledo" odds="/" />
+<gbRunner id="530252826" runner="8" name="Casablanca Breeze" jockey="J Vergara" odds="/" />
+<gbRunner id="530252827" runner="9" name="El Gran Canon" jockey="J Medina" odds="/" />
+<gbRunner id="530252828" runner="10" name="Llawhara" jockey="J Paredes" odds="/" />
+<gbRunner id="530252829" runner="11" name="No Es Robado" jockey="A Maureira" odds="/" />
+</gbEvent>
+<gbEvent meeting="CLUB HIPICO" name="19:36 STAKES 5f 212yds" id="11804933" distance="" cstime="19:36" date="2017-02-03" time="19:36">
+<gbRunner id="530252840" runner="1" name="Dona Caetana" jockey="A Rivera" odds="/" />
+<gbRunner id="530252841" runner="2" name="Nada Especial" jockey="R Fuenzalida" odds="/" />
+<gbRunner id="530252842" runner="3" name="Ana Ester" jockey="V Cifuentes" odds="/" />
+<gbRunner id="530252843" runner="4" name="Bruja De Salamanca" jockey="V Miranda" odds="/" />
+<gbRunner id="530252844" runner="5" name="Danza Rota" jockey="F Olivares" odds="/" />
+<gbRunner id="530252845" runner="6" name="Bluebells" jockey="H Ulloa" odds="/" />
+<gbRunner id="530252847" runner="7" name="Beautiful Moment" jockey="J Gonzalez" odds="/" />
+<gbRunner id="530252849" runner="8" name="Glamorosa Soy" jockey="J Medina" odds="/" />
+<gbRunner id="530252850" runner="9" name="Le Grand Jour" jockey="M Morales" odds="/" />
+<gbRunner id="530252852" runner="10" name="Susan Ohara" jockey="G Pontigo" odds="/" />
+</gbEvent>
+<gbEvent meeting="CLUB HIPICO" name="20:03 STAKES 6f 102yds" id="11804935" distance="" cstime="20:03" date="2017-02-03" time="20:03">
+<gbRunner id="530252860" runner="1" name="Mihaia" jockey="J Hernandez" odds="/" />
+<gbRunner id="530252861" runner="2" name="Vecchia Casablanca" jockey="A Maureira" odds="/" />
+<gbRunner id="530252862" runner="3" name="Acude En Mi Ayuda" jockey="F Olivares" odds="/" />
+<gbRunner id="530252863" runner="4" name="Lavanda Aromatica" jockey="H Berrios" odds="/" />
+<gbRunner id="530252864" runner="5" name="Mia Angelica" jockey="L Torres" odds="/" />
+<gbRunner id="530252865" runner="6" name="De Bavaria" jockey="E Toledo" odds="/" />
+<gbRunner id="530252867" runner="7" name="Campanitas" jockey="G Pontigo" odds="/" />
+<gbRunner id="530252868" runner="8" name="Misia Toyita" jockey="J Medina" odds="/" />
+<gbRunner id="530252870" runner="9" name="Turak" jockey="J Laprida" odds="/" />
+<gbRunner id="530252872" runner="10" name="Zaragozana" jockey="R Cisternas" odds="/" />
+<gbRunner id="530252875" runner="11" name="Mujer De Hierro" jockey="D Sanchez" odds="/" />
+</gbEvent>
+<gbEvent meeting="CLUB HIPICO" name="20:30 HANDICAP 4f 214yds" id="11804938" distance="" cstime="20:30" date="2017-02-03" time="20:30">
+<gbRunner id="530252887" runner="1" name="Chona Furiosa" jockey="A Maureira" odds="/" />
+<gbRunner id="530252889" runner="2" name="Ivette Denisovich" jockey="L Gonzalez" odds="/" />
+<gbRunner id="530252891" runner="3" name="Dona Pelusa" jockey="C Fuenzalida" odds="/" />
+<gbRunner id="530252892" runner="4" name="Mi Galicia" jockey="F Olivares" odds="/" />
+<gbRunner id="530252893" runner="5" name="Ponte Lungo" jockey="E Saez" odds="/" />
+<gbRunner id="530252894" runner="6" name="Vencedor De Pavia" jockey="M Bustamante" odds="/" />
+<gbRunner id="530252895" runner="7" name="El Taco" jockey="P Reyes" odds="/" />
+<gbRunner id="530252896" runner="8" name="Don Manolo" jockey="M Galaz" odds="/" />
+<gbRunner id="530252897" runner="9" name="Senor Pedro Pablo" jockey="J Hermosilla" odds="/" />
+<gbRunner id="530252898" runner="10" name="Pedro Colorin" jockey="J Vergara" odds="/" />
+<gbRunner id="530252899" runner="11" name="Kimal" jockey="J Mino" odds="/" />
+<gbRunner id="530252900" runner="12" name="Tugha Ban" jockey="M Morales" odds="/" />
+<gbRunner id="530252901" runner="13" name="Paparua" jockey="R Painen" odds="/" />
+<gbRunner id="530252902" runner="14" name="La Mas Bonita" jockey="J Flores" odds="/" />
+<gbRunner id="530252903" runner="15" name="Huracan Azul" jockey="R Fuenzalida" odds="/" />
+</gbEvent>
+<gbEvent meeting="CLUB HIPICO" name="20:56 HANDICAP 4f 214yds" id="11804940" distance="" cstime="20:56" date="2017-02-03" time="20:56">
+<gbRunner id="530252914" runner="1" name="Cuervo" jockey="J Laprida" odds="/" />
+<gbRunner id="530252915" runner="2" name="Luisa Fortuna" jockey="J Mino" odds="/" />
+<gbRunner id="530252916" runner="3" name="Aprovechadora" jockey="V Orrego" odds="/" />
+<gbRunner id="530252917" runner="4" name="Pulican" jockey="G Inostroza" odds="/" />
+<gbRunner id="530252918" runner="5" name="Anita Maravilla" jockey="R Fuenzalida" odds="/" />
+<gbRunner id="530252919" runner="6" name="Il Figlio Del Rey" jockey="J Mora" odds="/" />
+<gbRunner id="530252920" runner="7" name="Rio Huaiquillo" jockey="F Olivares" odds="/" />
+<gbRunner id="530252921" runner="8" name="Lancera Colorada" jockey="J Flores" odds="/" />
+<gbRunner id="530252922" runner="9" name="Loqui" jockey="E Saez" odds="/" />
+<gbRunner id="530252923" runner="10" name="Marysun" jockey="I Barrera" odds="/" />
+<gbRunner id="530252924" runner="11" name="Ivanquest" jockey="J Vergara" odds="/" />
+<gbRunner id="530252925" runner="12" name="Pony Express" jockey="A Maureira" odds="/" />
+<gbRunner id="530252926" runner="13" name="Sombras De Ayer" jockey="J Munoz" odds="/" />
+<gbRunner id="530252927" runner="14" name="Mi Florencia" jockey="L Paredes" odds="/" />
+<gbRunner id="530252928" runner="15" name="Sentimientos" jockey="C Fuenzalida" odds="/" />
+</gbEvent>
+<gbEvent meeting="CLUB HIPICO" name="21:21 HANDICAP 1m 99yds" id="11804942" distance="" cstime="21:21" date="2017-02-03" time="21:21">
+<gbRunner id="530252939" runner="1" name="Tracio Quinto" jockey="E Toledo" odds="/" />
+<gbRunner id="530252940" runner="2" name="Zuzuwi" jockey="J Paredes" odds="/" />
+<gbRunner id="530252941" runner="3" name="Blyster" jockey="G Pontigo" odds="/" />
+<gbRunner id="530252942" runner="4" name="Red Red Wine" jockey="C Jorquera" odds="/" />
+<gbRunner id="530252943" runner="5" name="Tiro Libre" jockey="J Laprida" odds="/" />
+<gbRunner id="530252944" runner="6" name="Primo Black" jockey="A Rivera" odds="/" />
+<gbRunner id="530252945" runner="7" name="Murrinumo" jockey="J Guajardo" odds="/" />
+<gbRunner id="530252946" runner="8" name="Il Bosforo" jockey="F Olivares" odds="/" />
+<gbRunner id="530252947" runner="9" name="Nemesia" jockey="A Varas" odds="/" />
+</gbEvent>
+<gbEvent meeting="CLUB HIPICO" name="21:21 HANDICAP 1m 99yds" id="11804942" distance="" cstime="21:21" date="2017-02-03" time="21:21">
+<gbRunner id="530252939" runner="1" name="Tracio Quinto" jockey="E Toledo" odds="/" />
+<gbRunner id="530252940" runner="2" name="Zuzuwi" jockey="J Paredes" odds="/" />
+<gbRunner id="530252941" runner="3" name="Blyster" jockey="G Pontigo" odds="/" />
+<gbRunner id="530252942" runner="4" name="Red Red Wine" jockey="C Jorquera" odds="/" />
+<gbRunner id="530252943" runner="5" name="Tiro Libre" jockey="J Laprida" odds="/" />
+<gbRunner id="530252944" runner="6" name="Primo Black" jockey="A Rivera" odds="/" />
+<gbRunner id="530252945" runner="7" name="Murrinumo" jockey="J Guajardo" odds="/" />
+<gbRunner id="530252946" runner="8" name="Il Bosforo" jockey="F Olivares" odds="/" />
+<gbRunner id="530252947" runner="9" name="Nemesia" jockey="A Varas" odds="/" />
+</gbEvent>
+<gbEvent meeting="CLUB HIPICO" name="21:21 HANDICAP 1m 99yds" id="11804942" distance="" cstime="21:21" date="2017-02-03" time="21:21">
+<gbRunner id="530252939" runner="1" name="Tracio Quinto" jockey="E Toledo" odds="/" />
+<gbRunner id="530252940" runner="2" name="Zuzuwi" jockey="J Paredes" odds="/" />
+<gbRunner id="530252941" runner="3" name="Blyster" jockey="G Pontigo" odds="/" />
+<gbRunner id="530252942" runner="4" name="Red Red Wine" jockey="C Jorquera" odds="/" />
+<gbRunner id="530252943" runner="5" name="Tiro Libre" jockey="J Laprida" odds="/" />
+<gbRunner id="530252944" runner="6" name="Primo Black" jockey="A Rivera" odds="/" />
+<gbRunner id="530252945" runner="7" name="Murrinumo" jockey="J Guajardo" odds="/" />
+<gbRunner id="530252946" runner="8" name="Il Bosforo" jockey="F Olivares" odds="/" />
+<gbRunner id="530252947" runner="9" name="Nemesia" jockey="A Varas" odds="/" />
+</gbEvent>
+<gbEvent meeting="CLUB HIPICO" name="21:21 HANDICAP 1m 99yds" id="11804942" distance="" cstime="21:21" date="2017-02-03" time="21:21">
+<gbRunner id="530252939" runner="1" name="Tracio Quinto" jockey="E Toledo" odds="/" />
+<gbRunner id="530252940" runner="2" name="Zuzuwi" jockey="J Paredes" odds="/" />
+<gbRunner id="530252941" runner="3" name="Blyster" jockey="G Pontigo" odds="/" />
+<gbRunner id="530252942" runner="4" name="Red Red Wine" jockey="C Jorquera" odds="/" />
+<gbRunner id="530252943" runner="5" name="Tiro Libre" jockey="J Laprida" odds="/" />
+<gbRunner id="530252944" runner="6" name="Primo Black" jockey="A Rivera" odds="/" />
+<gbRunner id="530252945" runner="7" name="Murrinumo" jockey="J Guajardo" odds="/" />
+<gbRunner id="530252946" runner="8" name="Il Bosforo" jockey="F Olivares" odds="/" />
+<gbRunner id="530252947" runner="9" name="Nemesia" jockey="A Varas" odds="/" />
+</gbEvent>
+<gbEvent meeting="CLUB HIPICO" name="21:21 HANDICAP 1m 99yds" id="11804942" distance="" cstime="21:21" date="2017-02-03" time="21:21">
+<gbRunner id="530252939" runner="1" name="Tracio Quinto" jockey="E Toledo" odds="/" />
+<gbRunner id="530252940" runner="2" name="Zuzuwi" jockey="J Paredes" odds="/" />
+<gbRunner id="530252941" runner="3" name="Blyster" jockey="G Pontigo" odds="/" />
+<gbRunner id="530252942" runner="4" name="Red Red Wine" jockey="C Jorquera" odds="/" />
+<gbRunner id="530252943" runner="5" name="Tiro Libre" jockey="J Laprida" odds="/" />
+<gbRunner id="530252944" runner="6" name="Primo Black" jockey="A Rivera" odds="/" />
+<gbRunner id="530252945" runner="7" name="Murrinumo" jockey="J Guajardo" odds="/" />
+<gbRunner id="530252946" runner="8" name="Il Bosforo" jockey="F Olivares" odds="/" />
+<gbRunner id="530252947" runner="9" name="Nemesia" jockey="A Varas" odds="/" />
+</gbEvent>
+<gbEvent meeting="GLOBE DERBY" name="Race 6 10:50" id="11805422" distance="" cstime="10:50" date="2017-02-03" time="10:50">
+<gbRunner id="530331201" runner="" name="1. Golden Bambi" jockey="Scott Ewen" odds="/" />
+<gbRunner id="530331202" runner="" name="2. Our Problem Child" jockey="Michael A Smith" odds="/" />
+<gbRunner id="530331203" runner="" name="3. Hapenny" jockey="Wayne Hill" odds="/" />
+</gbEvent>
+<gbEvent meeting="GLOBE DERBY" name="Race 7 11:20" id="11805423" distance="" cstime="11:20" date="2017-02-03" time="11:20">
+<gbRunner id="530331207" runner="" name="1. Ima Skybabe" jockey="David Jolly" odds="/" />
+<gbRunner id="530331208" runner="" name="2. Elementofdoubt" jockey="Michael A Smith" odds="/" />
+<gbRunner id="530331209" runner="" name="3. Sosogood" jockey="Wayne Hill" odds="/" />
+</gbEvent>
+<gbEvent meeting="ALBURY" name="Race 6 10:33" id="11805444" distance="" cstime="10:33" date="2017-02-03" time="10:33">
+<gbRunner id="530334957" runner="" name="1. Barnsdale" jockey="Ray White" odds="/" />
+<gbRunner id="530334958" runner="" name="2. Boundtobemad" jockey="Leon Hancock" odds="/" />
+<gbRunner id="530334959" runner="" name="3. Shell Green" jockey="Grant Forrest" odds="/" />
+<gbRunner id="530334960" runner="" name="4. Therockwontroll" jockey="Saul Duck" odds="/" />
+<gbRunner id="530334961" runner="" name="5. Clouded Judgement" jockey="Raymond Turner" odds="/" />
+<gbRunner id="530334962" runner="" name="6. Ruby Red Sox" jockey="John Scott" odds="/" />
+</gbEvent>
+<gbEvent meeting="ALBURY" name="Race 7 11:03" id="11805445" distance="" cstime="11:03" date="2017-02-03" time="11:03">
+<gbRunner id="530334966" runner="" name="1. Elegant Heaven" jockey="Brett Hogan" odds="/" />
+<gbRunner id="530334967" runner="" name="2. Fireball Pup" jockey="Ian Livermore" odds="/" />
+<gbRunner id="530334968" runner="" name="3. Maggie Grace" jockey="Grant Forrest" odds="/" />
+<gbRunner id="530334969" runner="" name="4. Shadow Stride" jockey="Peter McRae" odds="/" />
+<gbRunner id="530334970" runner="" name="5. Ima Dad" jockey="Gary Pekin" odds="/" />
+<gbRunner id="530334971" runner="" name="6. Getinthequeue" jockey="Thomas Gilligan" odds="/" />
+<gbRunner id="530334972" runner="" name="7. Spirit Of Szarbo" jockey="Raymond Turner" odds="/" />
+</gbEvent>
+<gbEvent meeting="ALBURY" name="Race 8 11:37" id="11805446" distance="" cstime="11:37" date="2017-02-03" time="11:37">
+<gbRunner id="530334975" runner="" name="1. Ray" jockey="Jarrod Basham" odds="/" />
+<gbRunner id="530334976" runner="" name="2. Shes Bettor Nz" jockey="David Kennedy" odds="/" />
+<gbRunner id="530334977" runner="" name="3. Chans Girl" jockey="Shane Hallcroft" odds="/" />
+<gbRunner id="530334978" runner="" name="4. Hell Of A Band" jockey="Grant Forrest" odds="/" />
+<gbRunner id="530334979" runner="" name="5. Ceejuddthreevotes" jockey="Craig McNamara" odds="/" />
+<gbRunner id="530334980" runner="" name="6. Had To Be Country" jockey="Thomas Gilligan" odds="/" />
+<gbRunner id="530334981" runner="" name="7. Hezupnabout" jockey="Royce Gregory-j" odds="/" />
+</gbEvent>
+<gbEvent meeting="GOLDEN GATE FIELDS" name="20:45 EVENT 1m" id="11804810" distance="1m 0f" cstime="20:45" date="2017-02-03" time="20:45">
+<gbRunner id="530247087" runner="1" name="Hotter Than Sinn" jockey="Rocco Bowen" odds="/" />
+<gbRunner id="530247088" runner="2" name="Midnight Gal" jockey="Irving Orozco" odds="/" />
+<gbRunner id="530247089" runner="3" name="Belles Command" jockey="Kevin Orozco" odds="/" />
+<gbRunner id="530247090" runner="4" name="Still Spinning" jockey="Julien Couton" odds="/" />
+<gbRunner id="530247091" runner="5" name="Carnival Lights" jockey="Catalino Martinez" odds="/" />
+</gbEvent>
+<gbEvent meeting="GOLDEN GATE FIELDS" name="21:15 EVENT 1m" id="11804811" distance="" cstime="21:15" date="2017-02-03" time="21:15">
+<gbRunner id="530247094" runner="1" name="Stauds Swish" jockey="Kyle Frey" odds="/" />
+<gbRunner id="530247095" runner="2" name="Thats Your Story" jockey="Julien Couton" odds="/" />
+<gbRunner id="530247096" runner="3" name="Gray Madam" jockey="Catalino Martinez" odds="/" />
+<gbRunner id="530247097" runner="4" name="Time For A Memory" jockey="Joe Crispin" odds="/" />
+<gbRunner id="530247098" runner="5" name="Astra Star" jockey="Irving Orozco" odds="/" />
+</gbEvent>
+<gbEvent meeting="GOLDEN GATE FIELDS" name="21:45 EVENT 1m" id="11804812" distance="" cstime="21:45" date="2017-02-03" time="21:45">
+<gbRunner id="530247101" runner="1" name="Big Boys Bargain" jockey="Francisco Duran" odds="/" />
+<gbRunner id="530247102" runner="2" name="Act Your Wage" jockey="Joe Crispin" odds="/" />
+<gbRunner id="530247103" runner="3" name="Kings Palace" jockey="William Iii Antongeorgi" odds="/" />
+<gbRunner id="530247104" runner="4" name="Global Event" jockey="Rocco Bowen" odds="/" />
+<gbRunner id="530247105" runner="5" name="Desert Diner" jockey="Hugo Herrera" odds="/" />
+<gbRunner id="530247106" runner="6" name="Hunters Angel" jockey="Chester Bonnet" odds="/" />
+</gbEvent>
+<gbEvent meeting="GOLDEN GATE FIELDS" name="22:15 EVENT 1m" id="11804813" distance="" cstime="22:15" date="2017-02-03" time="22:15">
+<gbRunner id="530247109" runner="1" name="Lethal Legacy" jockey="Ricardo Gonzalez" odds="/" />
+<gbRunner id="530247110" runner="2" name="Kadabadoo" jockey="Alejandro Gomez" odds="/" />
+<gbRunner id="530247111" runner="3" name="Blushing Bug" jockey="Silvio Amador" odds="/" />
+<gbRunner id="530247112" runner="4" name="Tinderella" jockey="Julien Couton" odds="/" />
+<gbRunner id="530247113" runner="5" name="Golden Mamba" jockey="Irving Orozco" odds="/" />
+<gbRunner id="530247114" runner="6" name="Anythingcanhappen" jockey="William Iii Antongeorgi" odds="/" />
+</gbEvent>
+<gbEvent meeting="GOLDEN GATE FIELDS" name="22:45 EVENT 6f" id="11804814" distance="" cstime="22:45" date="2017-02-03" time="22:45">
+<gbRunner id="530247117" runner="1" name="Wedding Blush" jockey="Alejandro Gomez" odds="/" />
+<gbRunner id="530247118" runner="2" name="Papaclemsmidnight" jockey="Irving Orozco" odds="/" />
+<gbRunner id="530247119" runner="3" name="Toomuchisnotenough" jockey="Ricardo Gonzalez" odds="/" />
+<gbRunner id="530247120" runner="4" name="Curly Girly" jockey="Frank Alvarado" odds="/" />
+<gbRunner id="530247121" runner="5" name="Debs Wildcard" jockey="Julien Couton" odds="/" />
+<gbRunner id="530247122" runner="6" name="Look Quickly" jockey="William Iii Antongeorgi" odds="/" />
+</gbEvent>
+<gbEvent meeting="GOLDEN GATE FIELDS" name="23:15 EVENT 1m" id="11804815" distance="" cstime="23:15" date="2017-02-03" time="23:15">
+<gbRunner id="530247125" runner="1" name="William Crotty" jockey="Julien Couton" odds="/" />
+<gbRunner id="530247126" runner="2" name="Magic Moon" jockey="Kyle Frey" odds="/" />
+<gbRunner id="530247127" runner="3" name="Foozer" jockey="Pedro Terrero" odds="/" />
+<gbRunner id="530247128" runner="4" name="Tough Emblem" jockey="Irving Orozco" odds="/" />
+<gbRunner id="530247129" runner="5" name="Venturi" jockey="Frank Alvarado" odds="/" />
+<gbRunner id="530247130" runner="6" name="Bundesliga" jockey="Ricardo Gonzalez" odds="/" />
+<gbRunner id="530247131" runner="7" name="Clude" jockey="Silvio Amador" odds="/" />
+</gbEvent>
+<gbEvent meeting="GOLDEN GATE FIELDS" name="23:45 EVENT 5f 110y" id="11804816" distance="" cstime="23:45" date="2017-02-03" time="23:45">
+<gbRunner id="530247134" runner="1" name="Regal Lady" jockey="Alejandro Gomez" odds="/" />
+<gbRunner id="530247135" runner="2" name="Lost In Lexington" jockey="Irving Orozco" odds="/" />
+<gbRunner id="530247136" runner="3" name="No More Twinkies" jockey="Julien Couton" odds="/" />
+<gbRunner id="530247137" runner="4" name="Sky Forever" jockey="Frank Alvarado" odds="/" />
+<gbRunner id="530247138" runner="5" name="Whisk" jockey="Ricardo Gonzalez" odds="/" />
+<gbRunner id="530247139" runner="6" name="Our Clementine" jockey="Rocco Bowen" odds="/" />
+<gbRunner id="530247140" runner="7" name="Foxy Lover" jockey="Kyle Frey" odds="/" />
+</gbEvent>
+</gbDataset>
