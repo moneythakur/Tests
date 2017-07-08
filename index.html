@@ -1,0 +1,49 @@
+
+<!DOCTYPE html>
+<html>
+<head>  
+<title></title>
+<script src="https://code.jquery.com/jquery-1.12.4.js"></script> 
+
+
+
+</script>
+</head>
+<body>
+	<script type="text/javascript">
+		
+		var today = new Date();			
+
+		Date.prototype.stdTimezoneOffset = function() {
+		    var jan = new Date(this.getFullYear(), 0, 1);
+		    var jul = new Date(this.getFullYear(), 6, 1);
+		    return Math.max(jan.getTimezoneOffset(), jul.getTimezoneOffset());
+		}
+
+		Date.prototype.dst = function() {
+		    return this.getTimezoneOffset() < this.stdTimezoneOffset();
+		}
+
+
+		if (today.dst()) { 
+			
+			alert("Daylight savings time!"); 
+
+		}else {
+			alert("No Daylight savings time!"); 
+		}
+
+
+
+	</script>
+</body>
+
+</html>
+
+
+
+
+
+
+
+
